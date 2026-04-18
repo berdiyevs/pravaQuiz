@@ -1,0 +1,231 @@
+.nav {
+  display: flex;
+  background-color: var(--bg-sidebar);
+  height: 70px;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 20px;
+}
+
+.header-info h1 {
+  color: #DAE2FD;
+  text-transform: uppercase;
+}
+
+.header-info p {
+  color: var(--text-info);
+}
+
+.header-info h1 > span {
+  color: #ADC6FF;
+}
+
+.nav .more-nav {
+  display: flex;
+  margin: auto;
+  gap: 30px;
+}
+
+.more-nav a {
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - 70px);
+  width: 200px;
+  background-color: var(--bg-sidebar);
+  padding: 12px 20px;
+  margin-bottom: 8px;
+  color: var(--text-muted);
+}
+
+.support {
+  display: flex;
+  margin-top: auto;
+  padding-bottom: 40px;
+  gap: 15px;
+}
+
+.side-item {
+  display: flex;
+  align-items: center;
+  padding: 12px 5px;
+  gap: 15px;
+  width: 150px;
+  height: 40px;
+  background: transparent; 
+  color: #94a3b8; 
+  border: none;
+  border-left: 4px solid transparent; 
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  font-size: 16px;
+}
+
+.side-item:hover {
+  background-color: #1e293b; 
+  color: #ffffff; 
+  border-left-color: #3b82f6;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+.library-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.content-wrapper {
+  display: flex; 
+  flex: 1; 
+  width: 100%;
+  overflow: hidden;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-height: 200px;
+  padding: 20px;
+}
+
+.overall {
+  margin-left: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+  padding: 20px 30px; 
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid #334155;
+  border-radius: 20px; 
+  width: 320px;
+}
+
+.overall > p {
+  font-size: small;
+}
+
+.categories-grid {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.category-card {
+  display: flex;
+  flex-direction: column;
+  background: #2D34494A; 
+  border: 1px solid #334155; 
+  border-radius: 24px; 
+  padding: 32px;
+  max-width: 335px;
+  max-height: 320px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  gap: 20px;
+}
+
+.category-card p {
+  color: var(--text-info);
+  font-size: 14px;
+}
+
+.progress-circle {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+svg {
+  transform: rotate(-90deg); /* Aylana tepadan boshlanishi uchun */
+}
+
+circle {
+  fill: none;
+  stroke-width: 8px;
+  stroke-linecap: round; /* Uchlarini yumaloq qiladi */
+}
+
+.bg {
+  stroke: #1e293b; /* Orqa fon rangi (to'qroq) */
+}
+
+.progress {
+  stroke: #22c55e; /* Dizayndagi yashil rang */
+  stroke-dasharray: 219.9; /* Aylana uzunligi (2 * PI * R) */
+  /* 62% uchun hisob: 219.9 * (1 - 0.62) = 83.5 */
+  stroke-dashoffset: 83.5; 
+  transition: stroke-dashoffset 0.5s ease;
+}
+
+.percentage-text {
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.icon {
+  display: flex;
+  background-color: #ADC6FF1A;
+  border-radius: 16px;
+  flex-shrink: 0;
+  height: 56px;
+  width: 56px;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon svg {
+  transform: rotate(0deg);
+}
+
+.progress-bar {
+  margin-top: auto;
+}
+
+.progress-container {
+  width: 100%;           /* Kartochka kengligiga moslashadi */
+  height: 8px;           /* Chiziqning qalinligi */
+  background-color: rgba(255, 255, 255, 0.1); /* Orqa fondagi xira chiziq */
+  border-radius: 10px;   /* Ikki cheti yumaloq bo'lishi uchun */
+  overflow: hidden;      /* Ichidagi rangli chiziq chiqib ketmasligi uchun */
+  margin-top: 15px;      /* Matndan bir oz pastda turishi uchun */
+}
+
+.progress-card {
+  width: 71%;            /* Sizdagi rasmda 71% ko'rsatilgan */
+  height: 100%;          /* Ota element balandligini to'liq egallaydi */
+  background-color: #ADC6FF; /* Siz ishlatayotgan ko'k rang */
+  border-radius: 10px;
+  /* Animatsiya qo'shish (ixtiyoriy) */
+  transition: width 0.5s ease-in-out; 
+}
+
+.icon.green {
+  background-color: #22c55e1f;
+}
+
+.icon.red {
+  background-color: #FFB4AB1f;
+}

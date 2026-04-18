@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "category": "Traffic Signs",
+    "question": "Ushbu yo'l belgisi nimani anglatadi?",
+    "image": "public/assets/images/sign-1.webp",
+    "options": [
+      "To'xtash taqiqlanadi",
+      "To'xtamasdan harakatlanish taqiqlanadi",
+      "Asosiy yo'l tugadi",
+      "Tezlikni cheklash"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ushbu belgi haydovchidan to'xtash chizig'i oldida, u bo'lmaganda esa chorraha chetida to'xtashni talab qiladi."
+  },
+  {
+    "id": 2,
+    "category": "Priority Rules",
+    "question": "Chorraqada qaysi transport vositasi birinchi bo'lib harakatlanadi?",
+    "image": "public/assets/images/intersection-1.webp",
+    "options": [
+      "O'ng tomondan kelayotgan yengil mashina",
+      "Asosiy yo'ldagi yuk mashinasi",
+      "Tramvay",
+      "Maxsus mayoqchali avtomobil"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Maxsus mayoqchasi va tovushli signali yoqilgan avtomobillar har qanday holatda ustunlikka ega."
+  }
+]

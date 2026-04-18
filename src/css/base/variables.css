@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+:root {
+    /* Asosiy fon ranglari */
+    --bg-dark: #0f172a;
+    --bg-card: #131B2E;
+    --bg-sidebar: #131c31;
+    --nav-bg: #02061799;
+
+    /* Aktsent (urg'u) ranglar */
+    --accent-blue: #3b82f6;
+    --accent-blue-hover: #2563eb;
+    --accent-green: #10b981;
+    --accent-red: #ef4444;
+
+    /* Matn ranglari */
+    --text-main: #f8fafc;
+    --text-dim: #94a3b8;
+    --text-muted: #64758d;
+    --text-info: #C2C6D6;
+
+    /* Border va Glassmorphism */
+    --glass-border: rgba(255, 255, 255, 0.1);
+    --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+
+    /* O'lchamlar */
+    --sidebar-width: 260px;
+    --border-radius: 16px;
+
+    --mini-text: 'Manrope'
+}

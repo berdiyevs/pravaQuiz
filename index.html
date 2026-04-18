@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Prava Quiz</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="src/css/base/variables.css" />
+    <link rel="stylesheet" href="src/css/base/reset.css" />
+    <link rel="stylesheet" href="src/css/pages/landing.css" />
+  </head>
+  <body>
+    
+<!-- Navigation bar -->
+
+    <nav class="navbar">
+      <div class="logo">Prava<span>Quiz</span></div>
+      <div class="nav-menu">
+        <button id="openModal">Boshlash</button>
+
+        <div id="loginModal" class="modal">
+          <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <h2>Xush kelibsiz!</h2>
+            <input type="text" id="nameInput" placeholder="Ismingiz" />
+            <input type="email" id="emailInput" placeholder="Email" />
+            <input type="password" id="passInput" placeholder="Parol" />
+
+            <div class="btn-group">
+              <button id="loginBtn">Kirish</button>
+              <button id="signUpBtn">Ro'yxatdan o'tish</button>
+            </div>
+            <hr />
+            <button id="googleLoginBtn">Google bilan kirish</button>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+<!-- Main page -->
+
+    <main class="hero">
+      <div class="hero-content">
+        <div class="main-text">
+          <span class="badge">Yangi: 2026 Testlar bazasi</span>
+          <h1>
+            Yo'l qoidalarini mukammal <br />
+            <span>o'rganing</span>
+          </h1>
+          <p>
+            O'zbekiston yo'l harakati qoidalarini eng zamonaviy va interaktiv
+            platformada o'rganing. Imtihonga biz bilan tayyorlaning.
+          </p>
+        </div>
+
+<!-- Action card / Select exam -->
+
+        <div class="action-grid">
+          <div class="action-card practice">
+            <div class="icon">📖</div>
+            <h3>Mashq qilish</h3>
+            <p>
+              Vaqt cheklovlarisiz, barcha savollarni tushuntirishlari bilan
+              ko'rib chiqing.
+            </p>
+            <a href="categories.html" class="btn-start">Boshlash</a>
+          </div>
+
+          <div class="action-card exam">
+            <div class="icon">⏱️</div>
+            <h3>Imtihon topshirish</h3>
+            <p>
+              Haqiqiy imtihon muhiti: 20 ta savol, 20 daqiqa va maksimal 2 ta
+              xato.
+            </p>
+            <a href="quiz.html" class="btn-exam">Imtihonni boshlash</a>
+          </div>
+        </div>
+      </div>
+    </main>
+
+<!-- Rate column -->
+
+    <div class="rate-info">
+      <div class="rate-text">
+        <h1>1000+</h1>
+        <p>RASMIY SAVOLLAR</p>
+      </div>
+
+      <div class="rate-text succes">
+        <h1>98.4%</h1>
+        <p>O'ZLASHTIRISH DARAJASI</p>
+      </div>
+
+      <div class="rate-text">
+        <h1>24/7</h1>
+        <p>NATIJALAR TAHLIL</p>
+      </div>
+    </div>
+
+<!-- Application info / Application Info -->
+
+    <div class="app-info">
+      <img
+        src="https://lh3.googleusercontent.com/aida-public/AB6AXuDtygvyNnDCm7UShahwRwIYsGvkErFAvPSUp9LDszU6NwDKCSE2N7Xn1jRbeJ6O_jce-YzQgWvWYCwGoCuzxI-De8-RmcHtUHy_gct2sZVUlJ7I_03YDl8QvtVufDqFNIOuoQUz-hxUiRDK_8CYrVP0w_XLx96BH3zEmiatsYzAZnMLr4Ulb07FyXHv11jW6kK7pCrrwR-veKWE1SmfM-JLaihSVFicAdxWM-3zImJ5pwi9FqeChCGrfvKPm1qZcOEpVdoOzAJngFzq"
+        alt=""
+      />
+
+      <div class="text-info">
+        <h1>Professional imkoniyatlar — cho'ntagingizda.</h1>
+        <br />
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      </div>
+    </div>
+
+<!-- Footer -->
+
+    <footer>
+      <div class="logo">Prava<span>Quiz</span></div>
+      <div class="footer-info">
+        <a href="">Foydalanish shartlari</a>
+        <a href="">Maxfiylik siyosati</a>
+        <a href="">Texnik yordam</a>
+      </div>
+      <p class="copyright-text">
+        &copy; 2026 PravaQuiz Systems. All rights reserved.
+      </p>
+    </footer>
+    <script type="module" src="src/js/main.js" defer></script>
+  </body>
+</html>

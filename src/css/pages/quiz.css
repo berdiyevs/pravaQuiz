@@ -1,0 +1,144 @@
+/* Navbar start */
+
+.quiz-nav {
+    display: flex;
+    gap: 30px;
+    padding: 0 24px;
+    align-items: center;
+    background-color: var(--nav-bg);
+    height: 64px;
+}
+
+.time {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-left: auto;
+    background-color: #2D34495F;
+    padding: 6px 16px;
+    border-radius: 20px;
+}
+
+.time > p {
+    font-family: var(--mini-text);
+    color: #ADC6FF !important;
+}
+
+.quiz-nav p {
+    color: #94A3B8;
+    font-size: 14px;
+    font-family: var(--mini-text);
+    text-transform: uppercase;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 1.4px;
+}
+
+.quit {
+    color: #FFB4AB;
+    padding: 6px 16px;
+    background-color: #93000A2F;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-family: var(--mini-text);
+}
+
+/* Navbar end */
+
+/* SideBar Start */
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    max-width: 288px;
+    height: calc(100vh - 64px);
+    background-color: var(--nav-bg);
+    padding: 32px 24px;
+    gap: 20px;
+}
+
+.exam-status {
+    width: 239px;
+    height: 76px;
+    padding: 16px;
+    background-color: #131B2E;
+    border-radius: 16px;
+    margin-top: auto;
+}
+
+.exam-status p {
+    color: #ADC6FF;
+    font-family: var(--mini-text);
+    text-transform: uppercase;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 1.4px;
+}
+
+.progress-monitor {
+    display: grid;
+    /* Har bir qatorda 4 tadan raqam bo'lishi uchun */
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 12px; /* Kataklar orasidagi masofa */
+    padding: 20px;
+    width: 240px;
+}
+
+.progress-container {
+  width: 100%;           /* Kartochka kengligiga moslashadi */
+  height: 8px;           /* Chiziqning qalinligi */
+  background-color: rgba(255, 255, 255, 0.1); /* Orqa fondagi xira chiziq */
+  border-radius: 10px;   /* Ikki cheti yumaloq bo'lishi uchun */
+  overflow: hidden;      /* Ichidagi rangli chiziq chiqib ketmasligi uchun */
+  margin-top: 15px;      /* Matndan bir oz pastda turishi uchun */
+}
+
+.progress-card {
+  width: 71%;            /* Sizdagi rasmda 71% ko'rsatilgan */
+  height: 100%;          /* Ota element balandligini to'liq egallaydi */
+  background-color: #4EDEA3; /* Siz ishlatayotgan ko'k rang */
+  border-radius: 10px;
+  /* Animatsiya qo'shish (ixtiyoriy) */
+  transition: width 0.5s ease-in-out; 
+}
+
+.step {
+    width: 35px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 500;
+    background-color: #1e293b; /* Figma'dagi to'q rang */
+    color: #94a3b8; /* Opacity 60% bo'lgan matn rangi */
+    border: 1px solid transparent;
+}
+
+/* Hozirgi savol holati */
+.step.current {
+    border-color: #3b82f6; /* Moviy chegara */
+    color: #fff;
+}
+
+/* Yechilgan (to'g'ri/noto'g'ri) savol holati */
+.step.completed {
+    background-color: #059669; /* Yashil fon */
+    color: #fff;
+}
+
+.answer {
+    display: flex;
+    padding: 8px;
+    border-radius: 12px;
+    background-color: #2D34495F;
+    width: 239px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.answer > svg {
+    color: #94A3B8;
+}
