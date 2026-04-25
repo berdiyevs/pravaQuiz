@@ -48,9 +48,10 @@ function displayQuestion(index) {
     // Rasmni yangilash
     if (currentData.image_url) {
         imageElement.src = currentData.image_url;
+        imageElement.loading = 'lazy';
         imageElement.style.display = 'block';
     } else {
-        imageElement.style.display = 'none'; // Rasm yo'q bo'lsa yashirish
+        imageElement.style.display = 'none';
     }
     imageElement.onerror = () => {
         imageElement.style.display = 'none';
