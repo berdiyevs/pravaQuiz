@@ -46,7 +46,7 @@
   {
     "id": 3,
     "question": "Ushbu yo'l chizig'i sizga qanday manyovr bajarishni taqiqlaydi?",
-    "image_url": "public/assets/quest-image/u57uz.webp",
+    "image_url": "//public/assets/quest-image/u57uz.webp",
     "options": [
       {
         "id": 1,
@@ -73,7 +73,7 @@
   {
     "id": 4,
     "question": "Ushbu belgi aholi punktlarida xavfli yo'l qismi boshlanishidan qancha masofa oldin o'rnatiladi?",
-    "image_url": "public/assets/quest-image/u11uz.webp",
+    "image_url": "//public/assets/quest-image/u11uz.webp",
     "options": [
       {
         "id": 1,
@@ -122,7 +122,7 @@
   {
     "id": 6,
     "question": "Belgilardan qaysi birining belgilangan yo'nalishdagi transport vositalariga dahli yo'q?",
-    "image_url": "public/assets/quest-image/u38uz.webp",
+    "image_url": "/public/assets/quest-image/u38uz.webp",
     "options": [
       {
         "id": 1,
@@ -154,7 +154,7 @@
   {
     "id": 7,
     "question": "Qaysi transport vositasining haydovchisi qayrilishni to'g'ri bajaradi?",
-    "image_url": "public/assets/quest-image/u376uz.webp",
+    "image_url": "/public/assets/quest-image/u376uz.webp",
     "options": [
       {
         "id": 1,
@@ -176,7 +176,7 @@
   {
     "id": 8,
     "question": "Qaysi holatda egri yo'lda harakatlanayotgan avtomobil turg'unligi ta'minlangan?",
-    "image_url": "public/assets/quest-image/u81uz.webp",
+    "image_url": "/public/assets/quest-image/u81uz.webp",
     "options": [
       {
         "id": 1,
@@ -220,7 +220,7 @@
   {
     "id": 10,
     "question": "Bunday holatda qaysi haydovchi yo‘l berishi kerak?",
-    "image_url": "public/assets/quest-image/u109uz.webp",
+    "image_url": "/public/assets/quest-image/u109uz.webp",
     "options": [
       {
         "id": 1,
@@ -237,7 +237,7 @@
   {
     "id": 11,
     "question": "Transport vositalari chorrahani quyidagi tartibda kesib o'tadilar:",
-    "image_url": "public/assets/quest-image/u399uz.webp",
+    "image_url": "/public/assets/quest-image/u399uz.webp",
     "options": [
       {
         "id": 1,
@@ -281,7 +281,7 @@
   {
     "id": 13,
     "question": "Chorrahani ikkinchi bo'lib kim kesib o'tadi?",
-    "image_url": "public/assets/quest-image/u130uz.webp",
+    "image_url": "/public/assets/quest-image/u130uz.webp",
     "options": [
       {
         "id": 1,
@@ -347,7 +347,7 @@
   {
     "id": 16,
     "question": "Ko'rsatilgan avtomobillardan qaysi biri ag'darilishga qarshi turg'unroq?",
-    "image_url": "public/assets/quest-image/u93uz.webp",
+    "image_url": "/public/assets/quest-image/u93uz.webp",
     "options": [
       {
         "id": 1,
@@ -369,7 +369,7 @@
   {
     "id": 17,
     "question": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
-    "image_url": "public/assets/quest-image/u188uz.webp",
+    "image_url": "/public/assets/quest-image/u188uz.webp",
     "options": [
       {
         "id": 1,
@@ -386,7 +386,7 @@
   {
     "id": 18,
     "question": "Chap tomondagi yondosh hududdan foydalanib qayrilib olishning ko'rsatilgan qaysi usuli harakat xavfsizligini ta'minlaydi?",
-    "image_url": "public/assets/quest-image/u223uz.webp",
+    "image_url": "/public/assets/quest-image/u223uz.webp",
     "options": [
       {
         "id": 1,
@@ -408,7 +408,7 @@
   {
     "id": 19,
     "question": "Qatnov qismidagi bunday yo'naltirgichlar nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u56uz.webp",
+    "image_url": "/public/assets/quest-image/u56uz.webp",
     "options": [
       {
         "id": 1,
@@ -430,7 +430,7 @@
   {
     "id": 20,
     "question": "Qaysi belgi to'xtamasdan o'tishni taqiqlaydi?",
-    "image_url": "public/assets/quest-image/u163uz.webp",
+    "image_url": "/public/assets/quest-image/u163uz.webp",
     "options": [
       {
         "id": 1,
@@ -462,7 +462,7 @@
   {
     "id": 21,
     "question": "Qizil avtomobilning haydovchisi, yalt-yalt etuvchi chiroq-mayoqcha va maxsus tovushli ishora yoqilgan transport vositasiga yaqinlashib kelayotganda nima qilishi kerak?",
-    "image_url": "public/assets/quest-image/u302uz.webp",
+    "image_url": "/public/assets/quest-image/u302uz.webp",
     "options": [
       {
         "id": 1,
@@ -484,7 +484,7 @@
   {
     "id": 22,
     "question": "Ushbu chorrahada haydovchiga orqaga harakatlanib ko'rsatilgan manyovrni bajarishga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u182uz.webp",
+    "image_url": "/public/assets/quest-image/u182uz.webp",
     "options": [
       {
         "id": 1,
@@ -528,7 +528,7 @@
   {
     "id": 24,
     "question": "Bir vaqtda qayrilishda qaysi transport vositasi yo'l berishi kerak?",
-    "image_url": "public/assets/quest-image/u437uz.webp",
+    "image_url": "/public/assets/quest-image/u437uz.webp",
     "options": [
       {
         "id": 1,
@@ -604,7 +604,7 @@
   {
     "id": 27,
     "question": "Svetoforning qizil va sariq chiroqlaridagi qora yo'naltirgichlar nima haqida axborot beradi?",
-    "image_url": "public/assets/quest-image/u13uz.webp",
+    "image_url": "/public/assets/quest-image/u13uz.webp",
     "options": [
       {
         "id": 1,
@@ -643,7 +643,7 @@
   {
     "id": 29,
     "question": "Motosikl haydovchisi qo'lini yuqoriga ko'tarib nima haqida axborot berayapti?",
-    "image_url": "public/assets/quest-image/u151uz.webp",
+    "image_url": "/public/assets/quest-image/u151uz.webp",
     "options": [
       {
         "id": 1,
@@ -692,7 +692,7 @@
   {
     "id": 31,
     "question": "Belgilardan qaysi biri yer usti avtomobil qo'yish joyini bildiradi?",
-    "image_url": "public/assets/quest-image/u119uz.webp",
+    "image_url": "/public/assets/quest-image/u119uz.webp",
     "options": [
       {
         "id": 1,
@@ -714,7 +714,7 @@
   {
     "id": 32,
     "question": "Bu yotiq chiziq quyidagi vazifani bajaradi:",
-    "image_url": "public/assets/quest-image/u28uz.webp",
+    "image_url": "/public/assets/quest-image/u28uz.webp",
     "options": [
       {
         "id": 1,
@@ -763,7 +763,7 @@
   {
     "id": 34,
     "question": "Bu yotiq chiziq nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u425uz.webp",
+    "image_url": "/public/assets/quest-image/u425uz.webp",
     "options": [
       {
         "id": 1,
@@ -844,7 +844,7 @@
   {
     "id": 37,
     "question": "Qaysi yo'l belgilari yo'lning tor qismida haydovchiga ustunlik beradi?",
-    "image_url": "public/assets/quest-image/u35uz.webp",
+    "image_url": "/public/assets/quest-image/u35uz.webp",
     "options": [
       {
         "id": 1,
@@ -871,7 +871,7 @@
   {
     "id": 38,
     "question": "Qaysi transport vositasining haydovchisi birinchi navbatda harakatlanish ustunligiga ega?",
-    "image_url": "public/assets/quest-image/u361uz.webp",
+    "image_url": "/public/assets/quest-image/u361uz.webp",
     "options": [
       {
         "id": 1,
@@ -888,7 +888,7 @@
   {
     "id": 39,
     "question": "Ushbu belgi aholi punktlarida xavfli yo'l qismi boshlanishidan qancha masofa oldin o'rnatiladi?",
-    "image_url": "public/assets/quest-image/u152uz.webp",
+    "image_url": "/public/assets/quest-image/u152uz.webp",
     "options": [
       {
         "id": 1,
@@ -910,7 +910,7 @@
   {
     "id": 40,
     "question": "Bu yotiq chiziq nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u362uz.webp",
+    "image_url": "/public/assets/quest-image/u362uz.webp",
     "options": [
       {
         "id": 1,
@@ -932,7 +932,7 @@
   {
     "id": 41,
     "question": "Qaysi yo'l belgilari  qayrilib olishga ruxsat beradi?",
-    "image_url": "public/assets/quest-image/u184uz.webp",
+    "image_url": "/public/assets/quest-image/u184uz.webp",
     "options": [
       {
         "id": 1,
@@ -1003,7 +1003,7 @@
   {
     "id": 44,
     "question": "Ko'rsatilgan avtosisternalardan qaysi biri burilishda ag'darilib ketish xavfi kamroq, turg'unroq?",
-    "image_url": "public/assets/quest-image/u233uz.webp",
+    "image_url": "/public/assets/quest-image/u233uz.webp",
     "options": [
       {
         "id": 1,
@@ -1020,7 +1020,7 @@
   {
     "id": 45,
     "question": "Yengil avtomobil qaysi yo‘nalish bo‘yicha to‘g‘ri burilmoqda?",
-    "image_url": "public/assets/quest-image/u330uz.webp",
+    "image_url": "/public/assets/quest-image/u330uz.webp",
     "options": [
       {
         "id": 1,
@@ -1157,7 +1157,7 @@
   {
     "id": 51,
     "question": "Qaysi avtomobil haydovchisiga burilishga ruxsat etilgan?",
-    "image_url": "public/assets/quest-image/u212uz.webp",
+    "image_url": "/public/assets/quest-image/u212uz.webp",
     "options": [
       {
         "id": 1,
@@ -1184,7 +1184,7 @@
   {
     "id": 52,
     "question": "Yo'naltirgichlar bilan ko'rsatilgan qaysi yo'nalishlarda harakat ruxsat etilgan?",
-    "image_url": "public/assets/quest-image/u19uz.webp",
+    "image_url": "/public/assets/quest-image/u19uz.webp",
     "options": [
       {
         "id": 1,
@@ -1216,7 +1216,7 @@
   {
     "id": 53,
     "question": "Ikkita harakat bo'lagi bo'lgan bir tomonlama harakat tashkil etilgan yo'llarda, avtomobilning yo'lni chap tomonida to'xtab turishiga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u377uz.webp",
+    "image_url": "/public/assets/quest-image/u377uz.webp",
     "options": [
       {
         "id": 1,
@@ -1282,7 +1282,7 @@
   {
     "id": 56,
     "question": "Ushbu belgi nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u356uz.webp",
+    "image_url": "/public/assets/quest-image/u356uz.webp",
     "options": [
       {
         "id": 1,
@@ -1321,7 +1321,7 @@
   {
     "id": 58,
     "question": "Bunday vaziyatda qizil avtomobilning haydovchisiga quvib o'tishga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u325uz.webp",
+    "image_url": "/public/assets/quest-image/u325uz.webp",
     "options": [
       {
         "id": 1,
@@ -1343,7 +1343,7 @@
   {
     "id": 59,
     "question": "Avtomabillar chorrahani quyidagi tartibda kesib o'tadilar:",
-    "image_url": "public/assets/quest-image/u21uz.webp",
+    "image_url": "/public/assets/quest-image/u21uz.webp",
     "options": [
       {
         "id": 1,
@@ -1365,7 +1365,7 @@
   {
     "id": 60,
     "question": "Enli uzuq-uzuq chiziq ko'rinishidagi yotiq chiziq nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u257uz.webp",
+    "image_url": "/public/assets/quest-image/u257uz.webp",
     "options": [
       {
         "id": 1,
@@ -1387,7 +1387,7 @@
   {
     "id": 61,
     "question": "Qaysi transport vositalari o'ngga harakatlanishga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u394uz.webp",
+    "image_url": "/public/assets/quest-image/u394uz.webp",
     "options": [
       {
         "id": 1,
@@ -1436,7 +1436,7 @@
   {
     "id": 63,
     "question": "Qaysi transport vositasiga harakatlanish taqiqlangan?",
-    "image_url": "public/assets/quest-image/u326uz.webp",
+    "image_url": "/public/assets/quest-image/u326uz.webp",
     "options": [
       {
         "id": 1,
@@ -1490,7 +1490,7 @@
   {
     "id": 65,
     "question": "Bu belgi o'rnatilgan yo'lda kajavali motosiklni shatakka olishga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u5uz.webp",
+    "image_url": "/public/assets/quest-image/u5uz.webp",
     "options": [
       {
         "id": 1,
@@ -1517,7 +1517,7 @@
   {
     "id": 66,
     "question": "Yo'l chizig'i bilan ajratilgan bekat maydonchasidan harakatlanish uchun foydalanishga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u345uz.webp",
+    "image_url": "/public/assets/quest-image/u345uz.webp",
     "options": [
       {
         "id": 1,
@@ -1561,7 +1561,7 @@
   {
     "id": 68,
     "question": "Qaysi rasmda piyodalar qoidani buzmay harakatlanmoqda?",
-    "image_url": "public/assets/quest-image/u46uz.webp",
+    "image_url": "/public/assets/quest-image/u46uz.webp",
     "options": [
       {
         "id": 1,
@@ -1583,7 +1583,7 @@
   {
     "id": 69,
     "question": "Qaysi belgilar axborot-ishora belgilari hisoblanadi?",
-    "image_url": "public/assets/quest-image/u148uz.webp",
+    "image_url": "/public/assets/quest-image/u148uz.webp",
     "options": [
       {
         "id": 1,
@@ -1610,7 +1610,7 @@
   {
     "id": 70,
     "question": "Chorraxadan birinchi bo'lib qaysi avtomobil kesib o'tadi",
-    "image_url": "public/assets/quest-image/u50uz.webp",
+    "image_url": "/public/assets/quest-image/u50uz.webp",
     "options": [
       {
         "id": 1,
@@ -1632,7 +1632,7 @@
   {
     "id": 71,
     "question": "Transport vositasining qaysi yo'nalishda harakatlanishiga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u19uz.webp",
+    "image_url": "/public/assets/quest-image/u19uz.webp",
     "options": [
       {
         "id": 1,
@@ -1654,7 +1654,7 @@
   {
     "id": 72,
     "question": "Ushbu yotiq chiziq nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u146uz.webp",
+    "image_url": "/public/assets/quest-image/u146uz.webp",
     "options": [
       {
         "id": 1,
@@ -1703,7 +1703,7 @@
   {
     "id": 74,
     "question": "Haydovchi poyezdni o‘tkazib yuborishi uchun to‘g‘ri to‘xtaganmi?",
-    "image_url": "public/assets/quest-image/u260uz.webp",
+    "image_url": "/public/assets/quest-image/u260uz.webp",
     "options": [
       {
         "id": 1,
@@ -1720,7 +1720,7 @@
   {
     "id": 75,
     "question": "Avtomobil haydovchisi harakatining tartibi qaysi javobda to'g'ri ko'rsatilgan?",
-    "image_url": "public/assets/quest-image/u60uz.webp",
+    "image_url": "/public/assets/quest-image/u60uz.webp",
     "options": [
       {
         "id": 1,
@@ -1742,7 +1742,7 @@
   {
     "id": 76,
     "question": "Qaysi yo'nalish bo'yicha burilish mumkin?",
-    "image_url": "public/assets/quest-image/u286uz.webp",
+    "image_url": "/public/assets/quest-image/u286uz.webp",
     "options": [
       {
         "id": 1,
@@ -1764,7 +1764,7 @@
   {
     "id": 77,
     "question": "Ushbu vaziyatda siz o'ngdagi bo'lakda harakatlanayotib sizning bo'lagingizga qayta tizilmoqchi bo'lgan transport vositasiga yo'l berishingiz kerakmi?",
-    "image_url": "public/assets/quest-image/u305uz.webp",
+    "image_url": "/public/assets/quest-image/u305uz.webp",
     "options": [
       {
         "id": 1,
@@ -1781,7 +1781,7 @@
   {
     "id": 78,
     "question": "To'xtab turish joyidan chiqib ketganda boshqa transport vositasi bilan yo'llaringiz kesishganda qanday harakat qilishingiz kerak?",
-    "image_url": "public/assets/quest-image/u430uz.webp",
+    "image_url": "/public/assets/quest-image/u430uz.webp",
     "options": [
       {
         "id": 1,
@@ -1874,7 +1874,7 @@
   {
     "id": 82,
     "question": "Belgilarning qaysi biri ogohlantiruvchi belgilar bilan qayd etilgan xavfli yo'l qismining uzunligini ko'rsatadi?",
-    "image_url": "public/assets/quest-image/u347uz.webp",
+    "image_url": "/public/assets/quest-image/u347uz.webp",
     "options": [
       {
         "id": 1,
@@ -1906,7 +1906,7 @@
   {
     "id": 83,
     "question": "Chorrahaning ko'rsatilgan joyida  sizga to'xtashga  ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u363uz.webp",
+    "image_url": "/public/assets/quest-image/u363uz.webp",
     "options": [
       {
         "id": 1,
@@ -1972,7 +1972,7 @@
   {
     "id": 86,
     "question": "Qaysi yo'l belgilari yo'lning tor qismida haydovchiga ustunlik beradi?",
-    "image_url": "public/assets/quest-image/u143uz.webp",
+    "image_url": "/public/assets/quest-image/u143uz.webp",
     "options": [
       {
         "id": 1,
@@ -2021,7 +2021,7 @@
   {
     "id": 88,
     "question": "Chapga burilayotgan sariq avtomobil haydovchisi qaysi bo'laklarni egallashi kerak?",
-    "image_url": "public/assets/quest-image/u165uz.webp",
+    "image_url": "/public/assets/quest-image/u165uz.webp",
     "options": [
       {
         "id": 1,
@@ -2070,7 +2070,7 @@
   {
     "id": 90,
     "question": "Shatakka olib harakatlanishingiz mumkin:",
-    "image_url": "public/assets/quest-image/u224uz.webp",
+    "image_url": "/public/assets/quest-image/u224uz.webp",
     "options": [
       {
         "id": 1,
@@ -2092,7 +2092,7 @@
   {
     "id": 91,
     "question": "Avtomabillar chorrahadan quyidagi tartibda o'tadilar:",
-    "image_url": "public/assets/quest-image/u17uz.webp",
+    "image_url": "/public/assets/quest-image/u17uz.webp",
     "options": [
       {
         "id": 1,
@@ -2114,7 +2114,7 @@
   {
     "id": 92,
     "question": "Ko'rsatilgan qaysi belgi reversiv harakat boshlanishi haqida axborot beradi?",
-    "image_url": "public/assets/quest-image/u180uz.webp",
+    "image_url": "/public/assets/quest-image/u180uz.webp",
     "options": [
       {
         "id": 1,
@@ -2136,7 +2136,7 @@
   {
     "id": 93,
     "question": "Chorrahani ikkinchi bo'lib kesib o'tadi?",
-    "image_url": "public/assets/quest-image/u409uz.webp",
+    "image_url": "/public/assets/quest-image/u409uz.webp",
     "options": [
       {
         "id": 1,
@@ -2180,7 +2180,7 @@
   {
     "id": 95,
     "question": "Yo'naltirgichlar bilan belgilangan yo'nalishlarning qaysi biridan harakatlanishga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u235uz.webp",
+    "image_url": "/public/assets/quest-image/u235uz.webp",
     "options": [
       {
         "id": 1,
@@ -2224,7 +2224,7 @@
   {
     "id": 97,
     "question": "Chorrahani oxirgi bo'lib qaysi avtomabil kesib o'tadi?",
-    "image_url": "public/assets/quest-image/u108uz.webp",
+    "image_url": "/public/assets/quest-image/u108uz.webp",
     "options": [
       {
         "id": 1,
@@ -2268,7 +2268,7 @@
   {
     "id": 99,
     "question": "Ushbu yo'l belgisi nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u452uz.webp",
+    "image_url": "/public/assets/quest-image/u452uz.webp",
     "options": [
       {
         "id": 1,
@@ -2290,7 +2290,7 @@
   {
     "id": 100,
     "question": "Avtomobillar harakatlanayotgan qatnov qismida nechta harakatlanish tasmasi bor?",
-    "image_url": "public/assets/quest-image/u226uz.webp",
+    "image_url": "/public/assets/quest-image/u226uz.webp",
     "options": [
       {
         "id": 1,
@@ -2356,7 +2356,7 @@
   {
     "id": 103,
     "question": "Choraxadan chapga burilmoqchisiz, sizning harakatingiz:",
-    "image_url": "public/assets/quest-image/u179uz.webp",
+    "image_url": "/public/assets/quest-image/u179uz.webp",
     "options": [
       {
         "id": 1,
@@ -2378,7 +2378,7 @@
   {
     "id": 104,
     "question": "Qaysi rasmda ikkita qatnov qismiga ega yo'l ko'rsatilingan?",
-    "image_url": "public/assets/quest-image/u387uz.webp",
+    "image_url": "/public/assets/quest-image/u387uz.webp",
     "options": [
       {
         "id": 1,
@@ -2400,7 +2400,7 @@
   {
     "id": 105,
     "question": "Siz chorrahadan to'g'riga o'tmoqchisiz. Ushbu vaziyatda sizning harakatingiz?",
-    "image_url": "public/assets/quest-image/u25uz.webp",
+    "image_url": "/public/assets/quest-image/u25uz.webp",
     "options": [
       {
         "id": 1,
@@ -2417,7 +2417,7 @@
   {
     "id": 106,
     "question": "Quyidagi yo‘l belgilaridan qaysilari qo‘shimcha axborot belgilari hisoblanadi?",
-    "image_url": "public/assets/quest-image/u351uz.webp",
+    "image_url": "/public/assets/quest-image/u351uz.webp",
     "options": [
       {
         "id": 1,
@@ -2466,7 +2466,7 @@
   {
     "id": 108,
     "question": "Yo'l to'sig'iga chizilgan tik chiziq nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u274uz.webp",
+    "image_url": "/public/assets/quest-image/u274uz.webp",
     "options": [
       {
         "id": 1,
@@ -2613,7 +2613,7 @@
   {
     "id": 114,
     "question": "Ushbu transport vositasiga chorraxa orqali qaysi yo'nalishlar bo'yicha xarakatlanishga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u339uz.webp",
+    "image_url": "/public/assets/quest-image/u339uz.webp",
     "options": [
       {
         "id": 1,
@@ -2645,7 +2645,7 @@
   {
     "id": 115,
     "question": "Bu yo'l belgisi nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u434uz.webp",
+    "image_url": "/public/assets/quest-image/u434uz.webp",
     "options": [
       {
         "id": 1,
@@ -2689,7 +2689,7 @@
   {
     "id": 117,
     "question": "Ko‘k  avtomobil haydovchisiga avtoturargohga kirishga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u371uz.webp",
+    "image_url": "/public/assets/quest-image/u371uz.webp",
     "options": [
       {
         "id": 1,
@@ -2706,7 +2706,7 @@
   {
     "id": 118,
     "question": "Yo'lning bu qismida quvib o'tishga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u229uz.webp",
+    "image_url": "/public/assets/quest-image/u229uz.webp",
     "options": [
       {
         "id": 1,
@@ -2723,7 +2723,7 @@
   {
     "id": 119,
     "question": "Qaysi holatda egri yo'lda harakatlanayotgan avtomobil turg'unligi ta'minlangan?",
-    "image_url": "public/assets/quest-image/u24uz.webp",
+    "image_url": "/public/assets/quest-image/u24uz.webp",
     "options": [
       {
         "id": 1,
@@ -2772,7 +2772,7 @@
   {
     "id": 121,
     "question": "Chorraxadan chapga burilmoqchisiz, sizning harakatingiz:",
-    "image_url": "public/assets/quest-image/u170uz.webp",
+    "image_url": "/public/assets/quest-image/u170uz.webp",
     "options": [
       {
         "id": 1,
@@ -2794,7 +2794,7 @@
   {
     "id": 122,
     "question": "Birinchi bo'lib chorrahani kesib o'tadi:",
-    "image_url": "public/assets/quest-image/u459uz.webp",
+    "image_url": "/public/assets/quest-image/u459uz.webp",
     "options": [
       {
         "id": 1,
@@ -2865,7 +2865,7 @@
   {
     "id": 125,
     "question": "Chapga burilish sizga qaysi trayektoriya bo‘yicha amalga oshirishga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u159uz.webp",
+    "image_url": "/public/assets/quest-image/u159uz.webp",
     "options": [
       {
         "id": 1,
@@ -2887,7 +2887,7 @@
   {
     "id": 126,
     "question": "Qaysi rasmlarda quvib o'tish ko'rsatilgan?",
-    "image_url": "public/assets/quest-image/u141uz.webp",
+    "image_url": "/public/assets/quest-image/u141uz.webp",
     "options": [
       {
         "id": 1,
@@ -2941,7 +2941,7 @@
   {
     "id": 128,
     "question": "Transport vositalari chorraxadan quyidagi tartibda o'tadilar",
-    "image_url": "public/assets/quest-image/u73uz.webp",
+    "image_url": "/public/assets/quest-image/u73uz.webp",
     "options": [
       {
         "id": 1,
@@ -2963,7 +2963,7 @@
   {
     "id": 129,
     "question": "Quyidagi holatda haydovchi piyodalarga yo'l berishi lozimmi?",
-    "image_url": "public/assets/quest-image/u190uz.webp",
+    "image_url": "/public/assets/quest-image/u190uz.webp",
     "options": [
       {
         "id": 1,
@@ -2980,7 +2980,7 @@
   {
     "id": 130,
     "question": "Chorrahani ikkinchi bo'lib qaysi avtomabil kesib o'tadi?",
-    "image_url": "public/assets/quest-image/u220uz.webp",
+    "image_url": "/public/assets/quest-image/u220uz.webp",
     "options": [
       {
         "id": 1,
@@ -3034,7 +3034,7 @@
   {
     "id": 132,
     "question": "Kemiruvchi va sudralim yuruvchi hayvonlar qaysi javobda ko'rsatilgan?",
-    "image_url": "public/assets/quest-image/u213uz.webp",
+    "image_url": "/public/assets/quest-image/u213uz.webp",
     "options": [
       {
         "id": 1,
@@ -3088,7 +3088,7 @@
   {
     "id": 134,
     "question": "Qaysi yo‘nalishlarda harakat qilish mumkin?",
-    "image_url": "public/assets/quest-image/u22uz.webp",
+    "image_url": "/public/assets/quest-image/u22uz.webp",
     "options": [
       {
         "id": 1,
@@ -3120,7 +3120,7 @@
   {
     "id": 135,
     "question": "Qaysi avtomobil to'xtab turishga to'g'ri qo'yilgan?",
-    "image_url": "public/assets/quest-image/u100uz.webp",
+    "image_url": "/public/assets/quest-image/u100uz.webp",
     "options": [
       {
         "id": 1,
@@ -3164,7 +3164,7 @@
   {
     "id": 137,
     "question": "Qaysi yo'nalishda harakatlanish taqiqlanadi?",
-    "image_url": "public/assets/quest-image/u404uz.webp",
+    "image_url": "/public/assets/quest-image/u404uz.webp",
     "options": [
       {
         "id": 1,
@@ -3191,7 +3191,7 @@
   {
     "id": 138,
     "question": "Chorraxani ikkinchi bo'lib kesib o'tadi:",
-    "image_url": "public/assets/quest-image/u37uz.webp",
+    "image_url": "/public/assets/quest-image/u37uz.webp",
     "options": [
       {
         "id": 1,
@@ -3257,7 +3257,7 @@
   {
     "id": 141,
     "question": "Ushbu svetafor qaysi yo'nalishida harakatlanishga ruxsat beradi?",
-    "image_url": "public/assets/quest-image/u70uz.webp",
+    "image_url": "/public/assets/quest-image/u70uz.webp",
     "options": [
       {
         "id": 1,
@@ -3284,7 +3284,7 @@
   {
     "id": 142,
     "question": "Agar yo'l boshlanishida ushbu belgi turgan bo'lsa, qatnov qismining qarama-qarshi yo'nalishiga o'tish mumkinmi?",
-    "image_url": "public/assets/quest-image/u44uz.webp",
+    "image_url": "/public/assets/quest-image/u44uz.webp",
     "options": [
       {
         "id": 1,
@@ -3345,7 +3345,7 @@
   {
     "id": 145,
     "question": "Avtomobillar chorrahani quyidagi tartibda kesib o'tadi:",
-    "image_url": "public/assets/quest-image/u406uz.webp",
+    "image_url": "/public/assets/quest-image/u406uz.webp",
     "options": [
       {
         "id": 1,
@@ -3367,7 +3367,7 @@
   {
     "id": 146,
     "question": "Qaysi belgi \"Xavfli yuk tashiyotgan transport vositalarining harakatlanishini taqiqlangan\" deb nomlanadi?",
-    "image_url": "public/assets/quest-image/u156uz.webp",
+    "image_url": "/public/assets/quest-image/u156uz.webp",
     "options": [
       {
         "id": 1,
@@ -3428,7 +3428,7 @@
   {
     "id": 149,
     "question": "Chorrahani birinchi bo'lib qaysi avtomabil kesib o'tadi?",
-    "image_url": "public/assets/quest-image/u279uz.webp",
+    "image_url": "/public/assets/quest-image/u279uz.webp",
     "options": [
       {
         "id": 1,
@@ -3543,7 +3543,7 @@
   {
     "id": 154,
     "question": "Harakatlanishga ruxsat etilgan barcha transport vositalari qaysi javobda to'g'ri ko'rsatilgan?",
-    "image_url": "public/assets/quest-image/u249uz.webp",
+    "image_url": "/public/assets/quest-image/u249uz.webp",
     "options": [
       {
         "id": 1,
@@ -3565,7 +3565,7 @@
   {
     "id": 155,
     "question": "Qaysi belgi ikkinchi darajali yo'l bilan kesishuvni bildiradi?",
-    "image_url": "public/assets/quest-image/u327uz.webp",
+    "image_url": "/public/assets/quest-image/u327uz.webp",
     "options": [
       {
         "id": 1,
@@ -3597,7 +3597,7 @@
   {
     "id": 156,
     "question": "Qaysi rasmdagi avtomobil haydovchisi yuk tashish qoidasini buzayapti?",
-    "image_url": "public/assets/quest-image/u176uz.webp",
+    "image_url": "/public/assets/quest-image/u176uz.webp",
     "options": [
       {
         "id": 1,
@@ -3619,7 +3619,7 @@
   {
     "id": 157,
     "question": "Siz chapga burilmoqchisiz, kimga yo‘l berishingiz kerak?",
-    "image_url": "public/assets/quest-image/u318uz.webp",
+    "image_url": "/public/assets/quest-image/u318uz.webp",
     "options": [
       {
         "id": 1,
@@ -3685,7 +3685,7 @@
   {
     "id": 160,
     "question": "Yengil avtomobilga qaysi yo'nalishlarda harakatlanishga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u324uz.webp",
+    "image_url": "/public/assets/quest-image/u324uz.webp",
     "options": [
       {
         "id": 1,
@@ -3707,7 +3707,7 @@
   {
     "id": 161,
     "question": "Ushbu “50” yozuvli yo'l chizig'i nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u309uz.webp",
+    "image_url": "/public/assets/quest-image/u309uz.webp",
     "options": [
       {
         "id": 1,
@@ -3773,7 +3773,7 @@
   {
     "id": 164,
     "question": "Qaysi avtomobil haydovchisi qoidani buzmay harakatlanmoqda?",
-    "image_url": "public/assets/quest-image/u299uz.webp",
+    "image_url": "/public/assets/quest-image/u299uz.webp",
     "options": [
       {
         "id": 1,
@@ -3795,7 +3795,7 @@
   {
     "id": 165,
     "question": "Qaysi transport vositasi haydovchisi yo'l berishi kerak?",
-    "image_url": "public/assets/quest-image/u189uz.webp",
+    "image_url": "/public/assets/quest-image/u189uz.webp",
     "options": [
       {
         "id": 1,
@@ -3812,7 +3812,7 @@
   {
     "id": 166,
     "question": "Qaysi transport vositasining haydovchisi aylanma harakatli kesishmaga to'g'ri chiqadi?",
-    "image_url": "public/assets/quest-image/u402uz.webp",
+    "image_url": "/public/assets/quest-image/u402uz.webp",
     "options": [
       {
         "id": 1,
@@ -3834,7 +3834,7 @@
   {
     "id": 167,
     "question": "Aholi punktlaridan tashqarida qaysi avtomobil to‘xtab turish qoidasini buzmadi?",
-    "image_url": "public/assets/quest-image/u74uz.webp",
+    "image_url": "/public/assets/quest-image/u74uz.webp",
     "options": [
       {
         "id": 1,
@@ -3898,7 +3898,7 @@
   {
     "id": 169,
     "question": "Suratdagi tasvirlangan holatda haydovchi nima qilishi lozim?",
-    "image_url": "public/assets/quest-image/u457uz.webp",
+    "image_url": "/public/assets/quest-image/u457uz.webp",
     "options": [
       {
         "id": 1,
@@ -3942,7 +3942,7 @@
   {
     "id": 171,
     "question": "Ushbu qo'shimcha axborot yo'l belgisi bildiradi:",
-    "image_url": "public/assets/quest-image/u338uz.webp",
+    "image_url": "/public/assets/quest-image/u338uz.webp",
     "options": [
       {
         "id": 1,
@@ -3991,7 +3991,7 @@
   {
     "id": 173,
     "question": "Ko'rsatilgan holatda haydovchi qanday yo'l tutishi kerak?",
-    "image_url": "public/assets/quest-image/u2uz.webp",
+    "image_url": "/public/assets/quest-image/u2uz.webp",
     "options": [
       {
         "id": 1,
@@ -4008,7 +4008,7 @@
   {
     "id": 174,
     "question": "Ushbu chorrahada kim yo'l beradi?",
-    "image_url": "public/assets/quest-image/u293uz.webp",
+    "image_url": "/public/assets/quest-image/u293uz.webp",
     "options": [
       {
         "id": 1,
@@ -4025,7 +4025,7 @@
   {
     "id": 175,
     "question": "Yo'lovchilarni tushirish uchun qaysi transport vositalari to'g'ri to'xtadi?",
-    "image_url": "public/assets/quest-image/u144uz.webp",
+    "image_url": "/public/assets/quest-image/u144uz.webp",
     "options": [
       {
         "id": 1,
@@ -4052,7 +4052,7 @@
   {
     "id": 176,
     "question": "Avtomobillarga qaysi yo‘nalishlarda harakatlanishga ruxsat beriladi?",
-    "image_url": "public/assets/quest-image/u337uz.webp",
+    "image_url": "/public/assets/quest-image/u337uz.webp",
     "options": [
       {
         "id": 1,
@@ -4079,7 +4079,7 @@
   {
     "id": 177,
     "question": "Bunday taniqlik belgisi bilan belgilanadigan transport vositasi:",
-    "image_url": "public/assets/quest-image/u335uz.webp",
+    "image_url": "/public/assets/quest-image/u335uz.webp",
     "options": [
       {
         "id": 1,
@@ -4101,7 +4101,7 @@
   {
     "id": 178,
     "question": "Bu yo'l chizig'i quyidagi maqsadni:",
-    "image_url": "public/assets/quest-image/u136uz.webp",
+    "image_url": "/public/assets/quest-image/u136uz.webp",
     "options": [
       {
         "id": 1,
@@ -4150,7 +4150,7 @@
   {
     "id": 180,
     "question": "O'tish navbati qaysi javobda to'g'ri ko'rsatilgan?",
-    "image_url": "public/assets/quest-image/u373uz.webp",
+    "image_url": "/public/assets/quest-image/u373uz.webp",
     "options": [
       {
         "id": 1,
@@ -4194,7 +4194,7 @@
   {
     "id": 182,
     "question": "Ko'rsatilgan qaysi belgi yo'lning o'ta sirpanchiq bo'lgan qismini bildiradi?",
-    "image_url": "public/assets/quest-image/u211uz.webp",
+    "image_url": "/public/assets/quest-image/u211uz.webp",
     "options": [
       {
         "id": 1,
@@ -4216,7 +4216,7 @@
   {
     "id": 183,
     "question": "Qaysi belgi to'siqni o'ng yoki chap tomonidan chetlab o'tishga ruxsat etilishini bildiradi?",
-    "image_url": "public/assets/quest-image/u319uz.webp",
+    "image_url": "/public/assets/quest-image/u319uz.webp",
     "options": [
       {
         "id": 1,
@@ -4270,7 +4270,7 @@
   {
     "id": 185,
     "question": "Qaysi transport vositasining haydovchisi harakatlanishda imtiyoziga ega?",
-    "image_url": "public/assets/quest-image/u160uz.webp",
+    "image_url": "/public/assets/quest-image/u160uz.webp",
     "options": [
       {
         "id": 1,
@@ -4287,7 +4287,7 @@
   {
     "id": 186,
     "question": "Agar avtomobilning balandligi (yuki bilan yoki yuksiz) belgida ko'rsatilganidan ortiq bo'lsa haydovchi:",
-    "image_url": "public/assets/quest-image/u241uz.webp",
+    "image_url": "/public/assets/quest-image/u241uz.webp",
     "options": [
       {
         "id": 1,
@@ -4309,7 +4309,7 @@
   {
     "id": 187,
     "question": "Chorrahadan o‘tish navbatini ko‘rsating:",
-    "image_url": "public/assets/quest-image/u222uz.webp",
+    "image_url": "/public/assets/quest-image/u222uz.webp",
     "options": [
       {
         "id": 1,
@@ -4331,7 +4331,7 @@
   {
     "id": 188,
     "question": "Qaysi transport vositalariga harakatlanish ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u307uz.webp",
+    "image_url": "/public/assets/quest-image/u307uz.webp",
     "options": [
       {
         "id": 1,
@@ -4436,7 +4436,7 @@
   {
     "id": 193,
     "question": "Yo'lovchilarni tushirish uchun bu belgi o'rnatilgan bo'lakda to'xtashga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u88uz.webp",
+    "image_url": "/public/assets/quest-image/u88uz.webp",
     "options": [
       {
         "id": 1,
@@ -4458,7 +4458,7 @@
   {
     "id": 194,
     "question": "Rasmda ko'rsatilgan holatda yo'lovchilarni tushirish uchun to'xtashga ruxsat beriladimi?",
-    "image_url": "public/assets/quest-image/u154uz.webp",
+    "image_url": "/public/assets/quest-image/u154uz.webp",
     "options": [
       {
         "id": 1,
@@ -4492,7 +4492,7 @@
   {
     "id": 196,
     "question": "Ko'k avtomobil chorrahani nechanchi bo'lib kesib o'tadi?",
-    "image_url": "public/assets/quest-image/u287uz.webp",
+    "image_url": "/public/assets/quest-image/u287uz.webp",
     "options": [
       {
         "id": 1,
@@ -4541,7 +4541,7 @@
   {
     "id": 198,
     "question": "Yovvoyi hayvonlar belgisini ko'rsating:",
-    "image_url": "public/assets/quest-image/u450uz.webp",
+    "image_url": "/public/assets/quest-image/u450uz.webp",
     "options": [
       {
         "id": 1,
@@ -4622,7 +4622,7 @@
   {
     "id": 201,
     "question": "Avtomobillar harakatlanayotgan qatnash qismida nechta harakatlanish tasmasi mavjud?",
-    "image_url": "public/assets/quest-image/u20uz.webp",
+    "image_url": "/public/assets/quest-image/u20uz.webp",
     "options": [
       {
         "id": 1,
@@ -4644,7 +4644,7 @@
   {
     "id": 202,
     "question": "Bu yo'l belgisi:",
-    "image_url": "public/assets/quest-image/u417uz.webp",
+    "image_url": "/public/assets/quest-image/u417uz.webp",
     "options": [
       {
         "id": 1,
@@ -4666,7 +4666,7 @@
   {
     "id": 203,
     "question": "Qaysi transport vositasining haydovchisi qoidani buzib burilmoqda?",
-    "image_url": "public/assets/quest-image/u64uz.webp",
+    "image_url": "/public/assets/quest-image/u64uz.webp",
     "options": [
       {
         "id": 1,
@@ -4688,7 +4688,7 @@
   {
     "id": 204,
     "question": "Bu yotiq chiziqlardan qaysi biri belgilangan yo'nalishdagi transport vositalarining to'xtash joyini bildiradi?",
-    "image_url": "public/assets/quest-image/u428uz.webp",
+    "image_url": "/public/assets/quest-image/u428uz.webp",
     "options": [
       {
         "id": 1,
@@ -4791,7 +4791,7 @@
   {
     "id": 208,
     "question": "Agar tegishli belgilar bilan belgilangan qiyaliklarda yuzma-yuz kelayotgan transportlarning o'tib ketishi qiyin bo'lsa, yo'l berish zarur:",
-    "image_url": "public/assets/quest-image/u122uz.webp",
+    "image_url": "/public/assets/quest-image/u122uz.webp",
     "options": [
       {
         "id": 1,
@@ -4862,7 +4862,7 @@
   {
     "id": 211,
     "question": "Piyodalarga qatnov qismidan kesib o'tishga ruxsat etiladimi ?",
-    "image_url": "public/assets/quest-image/u106uz.webp",
+    "image_url": "/public/assets/quest-image/u106uz.webp",
     "options": [
       {
         "id": 1,
@@ -4884,7 +4884,7 @@
   {
     "id": 212,
     "question": "Harakatlanish taqiqlangan:",
-    "image_url": "public/assets/quest-image/u79uz.webp",
+    "image_url": "/public/assets/quest-image/u79uz.webp",
     "options": [
       {
         "id": 1,
@@ -4906,7 +4906,7 @@
   {
     "id": 213,
     "question": "Qaysi avtomabil o‘ngga to‘g‘ri burilmoqda?",
-    "image_url": "public/assets/quest-image/u104uz.webp",
+    "image_url": "/public/assets/quest-image/u104uz.webp",
     "options": [
       {
         "id": 1,
@@ -4938,7 +4938,7 @@
   {
     "id": 214,
     "question": "Qaysi transport vositasiga harakatlanish ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u436uz.webp",
+    "image_url": "/public/assets/quest-image/u436uz.webp",
     "options": [
       {
         "id": 1,
@@ -4982,7 +4982,7 @@
   {
     "id": 216,
     "question": "Qizil avtomobil:",
-    "image_url": "public/assets/quest-image/u192uz.webp",
+    "image_url": "/public/assets/quest-image/u192uz.webp",
     "options": [
       {
         "id": 1,
@@ -5004,7 +5004,7 @@
   {
     "id": 217,
     "question": "Yengil avtomobil haydovchilarining qaysi biri aholi punktlarida harakatlanish qoidalarini buzmoqda?",
-    "image_url": "public/assets/quest-image/u322uz.webp",
+    "image_url": "/public/assets/quest-image/u322uz.webp",
     "options": [
       {
         "id": 1,
@@ -5026,7 +5026,7 @@
   {
     "id": 218,
     "question": "Qaysi transport vositasining haydovchisi quvib o'tishni to'g'ri bajaryapti?",
-    "image_url": "public/assets/quest-image/u98uz.webp",
+    "image_url": "/public/assets/quest-image/u98uz.webp",
     "options": [
       {
         "id": 1,
@@ -5080,7 +5080,7 @@
   {
     "id": 220,
     "question": "Avtomobillarga qaysi yo'nalishda harakatlanishga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u203uz.webp",
+    "image_url": "/public/assets/quest-image/u203uz.webp",
     "options": [
       {
         "id": 1,
@@ -5102,7 +5102,7 @@
   {
     "id": 221,
     "question": "Qaysi yotiq yo'l chizig'i avtomobil yo'llarida 3D ko'rinishidagi baland piyodalar o'tish joyini bildiradi?",
-    "image_url": "public/assets/quest-image/u256uz.webp",
+    "image_url": "/public/assets/quest-image/u256uz.webp",
     "options": [
       {
         "id": 1,
@@ -5173,7 +5173,7 @@
   {
     "id": 224,
     "question": "Chorraxani oxirgi bo'lib qaysi avtomabil kesib o'tadi?",
-    "image_url": "public/assets/quest-image/u120uz.webp",
+    "image_url": "/public/assets/quest-image/u120uz.webp",
     "options": [
       {
         "id": 1,
@@ -5195,7 +5195,7 @@
   {
     "id": 225,
     "question": "Qaysi belgi yo'l qismida avtomatlashtirilgan foto va video qayd etish texnika vositalari o'rnatilganligi haqida axborot beradi?",
-    "image_url": "public/assets/quest-image/u331uz.webp",
+    "image_url": "/public/assets/quest-image/u331uz.webp",
     "options": [
       {
         "id": 1,
@@ -5239,7 +5239,7 @@
   {
     "id": 227,
     "question": "Transport vositasi qaysi yo‘nalishda qayrilib olishiga ruxsat beriladi?",
-    "image_url": "public/assets/quest-image/u161uz.webp",
+    "image_url": "/public/assets/quest-image/u161uz.webp",
     "options": [
       {
         "id": 1,
@@ -5261,7 +5261,7 @@
   {
     "id": 228,
     "question": "Bu yotiq chiziq nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u40uz.webp",
+    "image_url": "/public/assets/quest-image/u40uz.webp",
     "options": [
       {
         "id": 1,
@@ -5332,7 +5332,7 @@
   {
     "id": 231,
     "question": "Bu belgilar amal qiladigan hududda «Nogiron» taniqli belgisi bilan belgilangan avtomobilga to'xtashga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u78uz.webp",
+    "image_url": "/public/assets/quest-image/u78uz.webp",
     "options": [
       {
         "id": 1,
@@ -5349,7 +5349,7 @@
   {
     "id": 232,
     "question": "Yo'naltirgichlar bilan ko'rsatilgan yo'nalishlarning qaysi biridan harakat qilish mumkin?",
-    "image_url": "public/assets/quest-image/u173uz.webp",
+    "image_url": "/public/assets/quest-image/u173uz.webp",
     "options": [
       {
         "id": 1,
@@ -5371,7 +5371,7 @@
   {
     "id": 233,
     "question": "To'xtash qoidasini qaysi transport haydovchisi buzdi?",
-    "image_url": "public/assets/quest-image/u300uz.webp",
+    "image_url": "/public/assets/quest-image/u300uz.webp",
     "options": [
       {
         "id": 1,
@@ -5393,7 +5393,7 @@
   {
     "id": 234,
     "question": "Qaysi rasmdagi haydovchilarga qayrilib olish taqiqlangan?",
-    "image_url": "public/assets/quest-image/u323uz.webp",
+    "image_url": "/public/assets/quest-image/u323uz.webp",
     "options": [
       {
         "id": 1,
@@ -5425,7 +5425,7 @@
   {
     "id": 235,
     "question": "Bu yerda quvib o'tishga ruxsat beriladimi?",
-    "image_url": "public/assets/quest-image/u353uz.webp",
+    "image_url": "/public/assets/quest-image/u353uz.webp",
     "options": [
       {
         "id": 1,
@@ -5442,7 +5442,7 @@
   {
     "id": 236,
     "question": "Qaysi yo‘nalish bo‘yicha harakatlanishga ruxsat berilgan?",
-    "image_url": "public/assets/quest-image/u440uz.webp",
+    "image_url": "/public/assets/quest-image/u440uz.webp",
     "options": [
       {
         "id": 1,
@@ -5491,7 +5491,7 @@
   {
     "id": 238,
     "question": "Qaysi belgi agar yuk avtomobilni tirkamasi bilan birga ruxsat etilgan to'liq vazni 7 tonnaga teng bo'lsa, tirkamali avtomobillarning harakatlanishini taqiqlaydi?",
-    "image_url": "public/assets/quest-image/u312uz.webp",
+    "image_url": "/public/assets/quest-image/u312uz.webp",
     "options": [
       {
         "id": 1,
@@ -5550,7 +5550,7 @@
   {
     "id": 240,
     "question": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
-    "image_url": "public/assets/quest-image/u107uz.webp",
+    "image_url": "/public/assets/quest-image/u107uz.webp",
     "options": [
       {
         "id": 1,
@@ -5567,7 +5567,7 @@
   {
     "id": 241,
     "question": "Ko'rsatilgan qaysi belgilar faqat shu o'rnatilgan bo'lakning o'ziga ta'sir qiladi?",
-    "image_url": "public/assets/quest-image/u358uz.webp",
+    "image_url": "/public/assets/quest-image/u358uz.webp",
     "options": [
       {
         "id": 1,
@@ -5589,7 +5589,7 @@
   {
     "id": 242,
     "question": "Avtomobil haydovchisi qaysi yo‘nalish bo‘yicha qoidani buzib burilmoqda?",
-    "image_url": "public/assets/quest-image/u127uz.webp",
+    "image_url": "/public/assets/quest-image/u127uz.webp",
     "options": [
       {
         "id": 1,
@@ -5643,7 +5643,7 @@
   {
     "id": 244,
     "question": "Bu belgi nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u298uz.webp",
+    "image_url": "/public/assets/quest-image/u298uz.webp",
     "options": [
       {
         "id": 1,
@@ -5687,7 +5687,7 @@
   {
     "id": 246,
     "question": "Qaysi yo'nalishda qayrilib olishga ruxsat beriladi?",
-    "image_url": "public/assets/quest-image/u29uz.webp",
+    "image_url": "/public/assets/quest-image/u29uz.webp",
     "options": [
       {
         "id": 1,
@@ -5753,7 +5753,7 @@
   {
     "id": 249,
     "question": "Ushbu yotiq yo'l chizig'i qaysi gurux yo'l belgilarini takrorlaydi?",
-    "image_url": "public/assets/quest-image/u272uz.webp",
+    "image_url": "/public/assets/quest-image/u272uz.webp",
     "options": [
       {
         "id": 1,
@@ -5802,7 +5802,7 @@
   {
     "id": 251,
     "question": "Avtomobilda bolalarni himoya qilish tizimini joylashtirish uchun qaysi joy eng xavfsiz hisoblanadi?",
-    "image_url": "public/assets/quest-image/u85uz.webp",
+    "image_url": "/public/assets/quest-image/u85uz.webp",
     "options": [
       {
         "id": 1,
@@ -5824,7 +5824,7 @@
   {
     "id": 252,
     "question": "Ushbu ko'rsatilgan holatda qaysi avtomabil yo'l berishi kerak?",
-    "image_url": "public/assets/quest-image/u31uz.webp",
+    "image_url": "/public/assets/quest-image/u31uz.webp",
     "options": [
       {
         "id": 1,
@@ -5890,7 +5890,7 @@
   {
     "id": 255,
     "question": "Qaysi avtomobil haydovchisi qoidani buzib hovliga burildi?",
-    "image_url": "public/assets/quest-image/u265uz.webp",
+    "image_url": "/public/assets/quest-image/u265uz.webp",
     "options": [
       {
         "id": 1,
@@ -5971,7 +5971,7 @@
   {
     "id": 258,
     "question": "Qaysi rasmdagi haydovchilar to'xtash qoidasini buzdilar?",
-    "image_url": "public/assets/quest-image/u375uz.webp",
+    "image_url": "/public/assets/quest-image/u375uz.webp",
     "options": [
       {
         "id": 1,
@@ -6003,7 +6003,7 @@
   {
     "id": 259,
     "question": "Ko'rsatilgan qaysi belgilar sizga yashash manzilingizga avtomobilda o'tishga ruxsat beradi?",
-    "image_url": "public/assets/quest-image/u296uz.webp",
+    "image_url": "/public/assets/quest-image/u296uz.webp",
     "options": [
       {
         "id": 1,
@@ -6030,7 +6030,7 @@
   {
     "id": 260,
     "question": "Qizil avtomobil chorrahani nechanchi bo'lib kesib o'tadi?",
-    "image_url": "public/assets/quest-image/u283uz.webp",
+    "image_url": "/public/assets/quest-image/u283uz.webp",
     "options": [
       {
         "id": 1,
@@ -6111,7 +6111,7 @@
   {
     "id": 263,
     "question": "Ushbu belgi aholi punktlarida xavfli yo'l qismi boshlanishidan qancha masofa oldin o'rnatiladi?",
-    "image_url": "public/assets/quest-image/u423uz.webp",
+    "image_url": "/public/assets/quest-image/u423uz.webp",
     "options": [
       {
         "id": 1,
@@ -6133,7 +6133,7 @@
   {
     "id": 264,
     "question": "Qizil avtomobil qaysi avtomabilga yo‘l berishi kerak?",
-    "image_url": "public/assets/quest-image/u27uz.webp",
+    "image_url": "/public/assets/quest-image/u27uz.webp",
     "options": [
       {
         "id": 1,
@@ -6177,7 +6177,7 @@
   {
     "id": 266,
     "question": "Harakatlanish qaysi transport vositalariga ruxsat etilgan?",
-    "image_url": "public/assets/quest-image/u49uz.webp",
+    "image_url": "/public/assets/quest-image/u49uz.webp",
     "options": [
       {
         "id": 1,
@@ -6204,7 +6204,7 @@
   {
     "id": 267,
     "question": "Ko'rsatilgan qaysi yo'l belgisi yengil yo'nalishsiz taksilarga yo'lovchilarni tushirish-chiqarish (yuklarni ortish-tushirish) vaqtida ta'sir qilmaydi?",
-    "image_url": "public/assets/quest-image/u214uz.webp",
+    "image_url": "/public/assets/quest-image/u214uz.webp",
     "options": [
       {
         "id": 1,
@@ -6231,7 +6231,7 @@
   {
     "id": 268,
     "question": "Ushbu yo'l belgisi qaysi transport vositalarining harakatlanishini taqiqlaydi?",
-    "image_url": "public/assets/quest-image/u420uz.webp",
+    "image_url": "/public/assets/quest-image/u420uz.webp",
     "options": [
       {
         "id": 1,
@@ -6275,7 +6275,7 @@
   {
     "id": 270,
     "question": "Ushbu belgilardan qaysi biri bir tomonlama harakat tashkil qilingan yo'lning boshida o'rnatiladi?",
-    "image_url": "public/assets/quest-image/u321uz.webp",
+    "image_url": "/public/assets/quest-image/u321uz.webp",
     "options": [
       {
         "id": 1,
@@ -6324,7 +6324,7 @@
   {
     "id": 272,
     "question": "Ushbu yo‘l belgisi qanday nomlanadi?",
-    "image_url": "public/assets/quest-image/u54uz.webp",
+    "image_url": "/public/assets/quest-image/u54uz.webp",
     "options": [
       {
         "id": 1,
@@ -6346,7 +6346,7 @@
   {
     "id": 273,
     "question": "Navbat bilan yilt-yilt etib turuvchi ikkita qizil yoritgichlar quyidagi manoga ega:",
-    "image_url": "public/assets/quest-image/u441uz.webp",
+    "image_url": "/public/assets/quest-image/u441uz.webp",
     "options": [
       {
         "id": 1,
@@ -6368,7 +6368,7 @@
   {
     "id": 274,
     "question": "Ko'rsatilgan belgilardan qaysinisi orqaga harakatlanishni taqiqlaydi?",
-    "image_url": "public/assets/quest-image/u16uz.webp",
+    "image_url": "/public/assets/quest-image/u16uz.webp",
     "options": [
       {
         "id": 1,
@@ -6400,7 +6400,7 @@
   {
     "id": 275,
     "question": "Kunning yorug' vaqtida harakatlanayotgan qaysi rasmdagi avtomobil haydovchisi yuk tashish qoidasini buzayapti?",
-    "image_url": "public/assets/quest-image/u185uz.webp",
+    "image_url": "/public/assets/quest-image/u185uz.webp",
     "options": [
       {
         "id": 1,
@@ -6422,7 +6422,7 @@
   {
     "id": 276,
     "question": "Sariq avtobusning haydovchisiga chorrahaga chiqishga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u261uz.webp",
+    "image_url": "/public/assets/quest-image/u261uz.webp",
     "options": [
       {
         "id": 1,
@@ -6444,7 +6444,7 @@
   {
     "id": 277,
     "question": "Quyidagi qaysi belgilar ogohlantiruvchi belgilar turiga kiradi?",
-    "image_url": "public/assets/quest-image/u34uz.webp",
+    "image_url": "/public/assets/quest-image/u34uz.webp",
     "options": [
       {
         "id": 1,
@@ -6530,7 +6530,7 @@
   {
     "id": 280,
     "question": "Bunday avtopoezdning ko'prikdan o'tishiga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u230uz.webp",
+    "image_url": "/public/assets/quest-image/u230uz.webp",
     "options": [
       {
         "id": 1,
@@ -6569,7 +6569,7 @@
   {
     "id": 282,
     "question": "Asosiy yo'l:",
-    "image_url": "public/assets/quest-image/u463uz.webp",
+    "image_url": "/public/assets/quest-image/u463uz.webp",
     "options": [
       {
         "id": 1,
@@ -6650,7 +6650,7 @@
   {
     "id": 285,
     "question": "Belgi ostidagi qo'shimcha axborot belgisi nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u455uz.webp",
+    "image_url": "/public/assets/quest-image/u455uz.webp",
     "options": [
       {
         "id": 1,
@@ -6716,7 +6716,7 @@
   {
     "id": 288,
     "question": "Avtomobilga o'rnatilgan bu taniqlik belgi nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u252uz.webp",
+    "image_url": "/public/assets/quest-image/u252uz.webp",
     "options": [
       {
         "id": 1,
@@ -6738,7 +6738,7 @@
   {
     "id": 289,
     "question": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
-    "image_url": "public/assets/quest-image/u266uz.webp",
+    "image_url": "/public/assets/quest-image/u266uz.webp",
     "options": [
       {
         "id": 1,
@@ -6755,7 +6755,7 @@
   {
     "id": 290,
     "question": "Qaysi transport vositasi haydovchisi to'g'riga harakatlanish huquqiga ega?",
-    "image_url": "public/assets/quest-image/u142uz.webp",
+    "image_url": "/public/assets/quest-image/u142uz.webp",
     "options": [
       {
         "id": 1,
@@ -6804,7 +6804,7 @@
   {
     "id": 292,
     "question": "Siz chorrahadan chapga burilmoqchisiz. Ushbu vaziyatda kimga yo'l berasiz?",
-    "image_url": "public/assets/quest-image/u412uz.webp",
+    "image_url": "/public/assets/quest-image/u412uz.webp",
     "options": [
       {
         "id": 1,
@@ -6848,7 +6848,7 @@
   {
     "id": 294,
     "question": "Mazkur holatda avtobus to'g'riga harakatlansa chorrahaga kirishiga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u268uz.webp",
+    "image_url": "/public/assets/quest-image/u268uz.webp",
     "options": [
       {
         "id": 1,
@@ -6870,7 +6870,7 @@
   {
     "id": 295,
     "question": "Ko'rsatilgan belgilardan qaysi biri yo'lning ko'rinish masofasi cheklangan joylarda majburan to'xtagan transport vositalarini belgilash uchun qo'llaniladi?",
-    "image_url": "public/assets/quest-image/u348uz.webp",
+    "image_url": "/public/assets/quest-image/u348uz.webp",
     "options": [
       {
         "id": 1,
@@ -6909,7 +6909,7 @@
   {
     "id": 297,
     "question": "Chorrahani oxirgi bo'lib qaysi avtomabil kesib o'tadi:",
-    "image_url": "public/assets/quest-image/u262uz.webp",
+    "image_url": "/public/assets/quest-image/u262uz.webp",
     "options": [
       {
         "id": 1,
@@ -6953,7 +6953,7 @@
   {
     "id": 299,
     "question": "Harakatlanishga ruxsat berilgan:",
-    "image_url": "public/assets/quest-image/u403uz.webp",
+    "image_url": "/public/assets/quest-image/u403uz.webp",
     "options": [
       {
         "id": 1,
@@ -6975,7 +6975,7 @@
   {
     "id": 300,
     "question": "Yo'l yoqasida qaysi transport vositalarining haydovchilari qoidani buzib to'xtadilar?",
-    "image_url": "public/assets/quest-image/u370uz.webp",
+    "image_url": "/public/assets/quest-image/u370uz.webp",
     "options": [
       {
         "id": 1,
@@ -7007,7 +7007,7 @@
   {
     "id": 301,
     "question": "Harakatlanish bo'lagidagi uchburchak shaklidagi chiziq:",
-    "image_url": "public/assets/quest-image/u444uz.webp",
+    "image_url": "/public/assets/quest-image/u444uz.webp",
     "options": [
       {
         "id": 1,
@@ -7029,7 +7029,7 @@
   {
     "id": 302,
     "question": "Ushbu yo'l belgisi qanday nomlanadi:",
-    "image_url": "public/assets/quest-image/u75uz.webp",
+    "image_url": "/public/assets/quest-image/u75uz.webp",
     "options": [
       {
         "id": 1,
@@ -7051,7 +7051,7 @@
   {
     "id": 303,
     "question": "Qaysi transport vositasining haydovchisi to'xtab turish qoidasini buzdi?",
-    "image_url": "public/assets/quest-image/u462uz.webp",
+    "image_url": "/public/assets/quest-image/u462uz.webp",
     "options": [
       {
         "id": 1,
@@ -7078,7 +7078,7 @@
   {
     "id": 304,
     "question": "Agar barcha transport vositalari 80 km/soat tezlik bilan harakat qilsa, haydovchilardan qay biri qoidalarning talablarini buzadi?",
-    "image_url": "public/assets/quest-image/u243uz.webp",
+    "image_url": "/public/assets/quest-image/u243uz.webp",
     "options": [
       {
         "id": 1,
@@ -7110,7 +7110,7 @@
   {
     "id": 305,
     "question": "Qaysi yo'l belgilari chapga burilishni taqiqlaydi?",
-    "image_url": "public/assets/quest-image/u245uz.webp",
+    "image_url": "/public/assets/quest-image/u245uz.webp",
     "options": [
       {
         "id": 1,
@@ -7159,7 +7159,7 @@
   {
     "id": 307,
     "question": "Transport vositasi ushbu taniqlik belgisi bilan belgilanadi:",
-    "image_url": "public/assets/quest-image/u372uz.webp",
+    "image_url": "/public/assets/quest-image/u372uz.webp",
     "options": [
       {
         "id": 1,
@@ -7257,7 +7257,7 @@
   {
     "id": 311,
     "question": "Yo'l patrul xizmati hodimlariga yo'l harakati qatnashchilari bilan o'zaro munosabatlari va maxsus moslamalardan foydalanishda nizom to'grisidagi qonunda qanday tartib qo'yilgan ?",
-    "image_url": "public/assets/quest-image/u83uz.webp",
+    "image_url": "/public/assets/quest-image/u83uz.webp",
     "options": [
       {
         "id": 1,
@@ -7289,7 +7289,7 @@
   {
     "id": 312,
     "question": "Qaysi avtomabilning haydovchisi birinchi navbatda harakatlanish huquqiga ega?",
-    "image_url": "public/assets/quest-image/u6uz.webp",
+    "image_url": "/public/assets/quest-image/u6uz.webp",
     "options": [
       {
         "id": 1,
@@ -7306,7 +7306,7 @@
   {
     "id": 313,
     "question": "Chorrahani ikkinchi bo'lib qaysi avtomabil kesib o'tadi?",
-    "image_url": "public/assets/quest-image/u237uz.webp",
+    "image_url": "/public/assets/quest-image/u237uz.webp",
     "options": [
       {
         "id": 1,
@@ -7328,7 +7328,7 @@
   {
     "id": 314,
     "question": "Ishchi tormozi to'satdan ishlamay qolganda avtomobilni qanday to'xtatish kerak?",
-    "image_url": "public/assets/quest-image/u400uz.webp",
+    "image_url": "/public/assets/quest-image/u400uz.webp",
     "options": [
       {
         "id": 1,
@@ -7345,7 +7345,7 @@
   {
     "id": 315,
     "question": "Yengil avtomobil haydovchisi qanday qoidalarni buzdi?",
-    "image_url": "public/assets/quest-image/u254uz.webp",
+    "image_url": "/public/assets/quest-image/u254uz.webp",
     "options": [
       {
         "id": 1,
@@ -7362,7 +7362,7 @@
   {
     "id": 316,
     "question": "Yengil avtomobilda  qaysi yo'nalishlarda  harakatlanishga ruxsat  etiladi?",
-    "image_url": "public/assets/quest-image/u288uz.webp",
+    "image_url": "/public/assets/quest-image/u288uz.webp",
     "options": [
       {
         "id": 1,
@@ -7411,7 +7411,7 @@
   {
     "id": 318,
     "question": "Ko‘k avtomobil haydovchisi qaysi yo‘nalishlarda harakatlanishga ruxsat etilmaydi?",
-    "image_url": "public/assets/quest-image/u295uz.webp",
+    "image_url": "/public/assets/quest-image/u295uz.webp",
     "options": [
       {
         "id": 1,
@@ -7465,7 +7465,7 @@
   {
     "id": 320,
     "question": "Qizil avtomobil chorraxani nechinchi bo'lib kesib o'tadi?",
-    "image_url": "public/assets/quest-image/u289uz.webp",
+    "image_url": "/public/assets/quest-image/u289uz.webp",
     "options": [
       {
         "id": 1,
@@ -7541,7 +7541,7 @@
   {
     "id": 323,
     "question": "Mazkur taniqlik belgisi nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u431uz.webp",
+    "image_url": "/public/assets/quest-image/u431uz.webp",
     "options": [
       {
         "id": 1,
@@ -7563,7 +7563,7 @@
   {
     "id": 324,
     "question": "Chorrahani transport vositalari quyidagicha kesib o'tadilar:",
-    "image_url": "public/assets/quest-image/u26uz.webp",
+    "image_url": "/public/assets/quest-image/u26uz.webp",
     "options": [
       {
         "id": 1,
@@ -7590,7 +7590,7 @@
   {
     "id": 325,
     "question": "Ushbu tik chiziq nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u202uz.webp",
+    "image_url": "/public/assets/quest-image/u202uz.webp",
     "options": [
       {
         "id": 1,
@@ -7612,7 +7612,7 @@
   {
     "id": 326,
     "question": "Qaysi avtomabil haydovchisi qoida buzib harakatlanmoqda?",
-    "image_url": "public/assets/quest-image/u42uz.webp",
+    "image_url": "/public/assets/quest-image/u42uz.webp",
     "options": [
       {
         "id": 1,
@@ -7634,7 +7634,7 @@
   {
     "id": 327,
     "question": "Qaysi javobda belgining nomi to'g'ri ko'rsatilgan?",
-    "image_url": "public/assets/quest-image/u91uz.webp",
+    "image_url": "/public/assets/quest-image/u91uz.webp",
     "options": [
       {
         "id": 1,
@@ -7656,7 +7656,7 @@
   {
     "id": 328,
     "question": "Qaysi belgi chapga burilishga ruxsat etadi?",
-    "image_url": "public/assets/quest-image/u397uz.webp",
+    "image_url": "/public/assets/quest-image/u397uz.webp",
     "options": [
       {
         "id": 1,
@@ -7688,7 +7688,7 @@
   {
     "id": 329,
     "question": "Quyidagi chiziq nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u389uz.webp",
+    "image_url": "/public/assets/quest-image/u389uz.webp",
     "options": [
       {
         "id": 1,
@@ -7737,7 +7737,7 @@
   {
     "id": 331,
     "question": "Qaysi javobda chorrahadan o'tish tartibi to'g'ri ko'rsatilgan?",
-    "image_url": "public/assets/quest-image/u281uz.webp",
+    "image_url": "/public/assets/quest-image/u281uz.webp",
     "options": [
       {
         "id": 1,
@@ -7808,7 +7808,7 @@
   {
     "id": 334,
     "question": "Qaysi avtomobil haydovchisi qoidani buzmasdan harakatlanmoqda?",
-    "image_url": "public/assets/quest-image/u209uz.webp",
+    "image_url": "/public/assets/quest-image/u209uz.webp",
     "options": [
       {
         "id": 1,
@@ -7835,7 +7835,7 @@
   {
     "id": 335,
     "question": "Avtobus haydovchisiga bu joyda odam tushirishga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u210uz.webp",
+    "image_url": "/public/assets/quest-image/u210uz.webp",
     "options": [
       {
         "id": 1,
@@ -7857,7 +7857,7 @@
   {
     "id": 336,
     "question": "Chorraxadan oxirgi bo'lib qaysi transport vositasi kesib o'tadi?",
-    "image_url": "public/assets/quest-image/u304uz.webp",
+    "image_url": "/public/assets/quest-image/u304uz.webp",
     "options": [
       {
         "id": 1,
@@ -7879,7 +7879,7 @@
   {
     "id": 337,
     "question": "Qaysi belgi «Mehmonxona»ni bildiradi?",
-    "image_url": "public/assets/quest-image/u453uz.webp",
+    "image_url": "/public/assets/quest-image/u453uz.webp",
     "options": [
       {
         "id": 1,
@@ -7911,7 +7911,7 @@
   {
     "id": 338,
     "question": "Belgilangan yo‘nalishlarda harakatlanishga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u424uz.webp",
+    "image_url": "/public/assets/quest-image/u424uz.webp",
     "options": [
       {
         "id": 1,
@@ -7955,7 +7955,7 @@
   {
     "id": 340,
     "question": "Suratlarning qaysi birida quvib o'tish ko'rsatilgan?",
-    "image_url": "public/assets/quest-image/u216uz.webp",
+    "image_url": "/public/assets/quest-image/u216uz.webp",
     "options": [
       {
         "id": 1,
@@ -8021,7 +8021,7 @@
   {
     "id": 343,
     "question": "Avtomobil harakatining barcha ruxsat etilgan yo'nalishlari qaysi javobda to'g'ri ko'rsatilgan?",
-    "image_url": "public/assets/quest-image/u269uz.webp",
+    "image_url": "/public/assets/quest-image/u269uz.webp",
     "options": [
       {
         "id": 1,
@@ -8075,7 +8075,7 @@
   {
     "id": 345,
     "question": "Qaysi transport vositasining haydovchisi birinchi bo'lib harakatlanish huquqiga ega?",
-    "image_url": "public/assets/quest-image/u366uz.webp",
+    "image_url": "/public/assets/quest-image/u366uz.webp",
     "options": [
       {
         "id": 1,
@@ -8141,7 +8141,7 @@
   {
     "id": 348,
     "question": "Qaysi holda avtomobilning ag'anab ketishiga qarshi turg'unligi ortadi?",
-    "image_url": "public/assets/quest-image/u166uz.webp",
+    "image_url": "/public/assets/quest-image/u166uz.webp",
     "options": [
       {
         "id": 1,
@@ -8190,7 +8190,7 @@
   {
     "id": 350,
     "question": "Mazkur belgi bilan belgilangan hududda qanday cheklanishlar kiritilgan?",
-    "image_url": "public/assets/quest-image/u145uz.webp",
+    "image_url": "/public/assets/quest-image/u145uz.webp",
     "options": [
       {
         "id": 1,
@@ -8217,7 +8217,7 @@
   {
     "id": 351,
     "question": "Belgi ostidagi qo'shimcha axborot belgisi nimani anglatadi?",
-    "image_url": "public/assets/quest-image/u429uz.webp",
+    "image_url": "/public/assets/quest-image/u429uz.webp",
     "options": [
       {
         "id": 1,
@@ -8261,7 +8261,7 @@
   {
     "id": 353,
     "question": "Ko'rsatilgan belgilardan qay biri ilgari kiritilgan barcha cheklashlarni bekor qiladi?",
-    "image_url": "public/assets/quest-image/u368uz.webp",
+    "image_url": "/public/assets/quest-image/u368uz.webp",
     "options": [
       {
         "id": 1,
@@ -8293,7 +8293,7 @@
   {
     "id": 354,
     "question": "Qaysi transport vositasiga to'xtash taqiqlangan?",
-    "image_url": "public/assets/quest-image/u365uz.webp",
+    "image_url": "/public/assets/quest-image/u365uz.webp",
     "options": [
       {
         "id": 1,
@@ -8342,7 +8342,7 @@
   {
     "id": 356,
     "question": "Transport vositasiga qaysi yo'nalishlarda harakatlanishga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u7uz.webp",
+    "image_url": "/public/assets/quest-image/u7uz.webp",
     "options": [
       {
         "id": 1,
@@ -8440,7 +8440,7 @@
   {
     "id": 360,
     "question": "Qaysi belgi oyning juft sonli kunlarda to'xtab turishni taqiqlaydi?",
-    "image_url": "public/assets/quest-image/u45uz.webp",
+    "image_url": "/public/assets/quest-image/u45uz.webp",
     "options": [
       {
         "id": 1,
@@ -8555,7 +8555,7 @@
   {
     "id": 365,
     "question": "Ko'rsatilgan joyda to'xtashga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u174uz.webp",
+    "image_url": "/public/assets/quest-image/u174uz.webp",
     "options": [
       {
         "id": 1,
@@ -8572,7 +8572,7 @@
   {
     "id": 366,
     "question": "Avtomobil haydovchisi qayrilib olmoqchi:",
-    "image_url": "public/assets/quest-image/u147uz.webp",
+    "image_url": "/public/assets/quest-image/u147uz.webp",
     "options": [
       {
         "id": 1,
@@ -8589,7 +8589,7 @@
   {
     "id": 367,
     "question": "Jamoat transporti  bekatidan tashqarida  yo'l chetidan  qo'zg'alayotgan  yo'nalishli  transport vositasiga yo'l berishingiz kerakmi?",
-    "image_url": "public/assets/quest-image/u71uz.webp",
+    "image_url": "/public/assets/quest-image/u71uz.webp",
     "options": [
       {
         "id": 1,
@@ -8606,7 +8606,7 @@
   {
     "id": 368,
     "question": "Transport vositalari chorraxani qay tartibda kesib o'tadi?",
-    "image_url": "public/assets/quest-image/u66uz.webp",
+    "image_url": "/public/assets/quest-image/u66uz.webp",
     "options": [
       {
         "id": 1,
@@ -8623,7 +8623,7 @@
   {
     "id": 369,
     "question": "Ko'k avtomobil chorrahani kesib o'tadi:",
-    "image_url": "public/assets/quest-image/u396uz.webp",
+    "image_url": "/public/assets/quest-image/u396uz.webp",
     "options": [
       {
         "id": 1,
@@ -8650,7 +8650,7 @@
   {
     "id": 370,
     "question": "Haydovchi qaysi rasmda qoidani buzmay to'xtagan?",
-    "image_url": "public/assets/quest-image/u250uz.webp",
+    "image_url": "/public/assets/quest-image/u250uz.webp",
     "options": [
       {
         "id": 1,
@@ -8672,7 +8672,7 @@
   {
     "id": 371,
     "question": "Svetoforning bir vaqtda yoqilgan sariq va qizil ishoralari nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u282uz.webp",
+    "image_url": "/public/assets/quest-image/u282uz.webp",
     "options": [
       {
         "id": 1,
@@ -8694,7 +8694,7 @@
   {
     "id": 372,
     "question": "Oq-qizil (1.14.4 zebra) yo'l chizig'i qanday,joylarda piyodalar o'tish joyini belgilash uchun chiziladi?",
-    "image_url": "public/assets/quest-image/u172uz.webp",
+    "image_url": "/public/assets/quest-image/u172uz.webp",
     "options": [
       {
         "id": 1,
@@ -8787,7 +8787,7 @@
   {
     "id": 376,
     "question": "Yuk avtomobilining qaysi yo'nalishda harakatlanishiga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u67uz.webp",
+    "image_url": "/public/assets/quest-image/u67uz.webp",
     "options": [
       {
         "id": 1,
@@ -8858,7 +8858,7 @@
   {
     "id": 379,
     "question": "Qanday hollarda sizga 50 km/s dan yuqori tezlikda harakatlanish taqiqlangan?",
-    "image_url": "public/assets/quest-image/u398uz.webp",
+    "image_url": "/public/assets/quest-image/u398uz.webp",
     "options": [
       {
         "id": 1,
@@ -8875,7 +8875,7 @@
   {
     "id": 380,
     "question": "Qaysi belgi yo'lning ko'rsatilgan yo'nalishida oxiri berk ko'chaligini bildiradi?",
-    "image_url": "public/assets/quest-image/u239uz.webp",
+    "image_url": "/public/assets/quest-image/u239uz.webp",
     "options": [
       {
         "id": 1,
@@ -8939,7 +8939,7 @@
   {
     "id": 382,
     "question": "Kim yo'l berishi kerak?",
-    "image_url": "public/assets/quest-image/u227uz.webp",
+    "image_url": "/public/assets/quest-image/u227uz.webp",
     "options": [
       {
         "id": 1,
@@ -8956,7 +8956,7 @@
   {
     "id": 383,
     "question": "Bu taniqlik belgisi o'rnatiladi:",
-    "image_url": "public/assets/quest-image/u113uz.webp",
+    "image_url": "/public/assets/quest-image/u113uz.webp",
     "options": [
       {
         "id": 1,
@@ -8978,7 +8978,7 @@
   {
     "id": 384,
     "question": "Ushbu svetofor tramvayga qaysi yo'nalishda harakatlanishga ruxsat beradi?",
-    "image_url": "public/assets/quest-image/u301uz.webp",
+    "image_url": "/public/assets/quest-image/u301uz.webp",
     "options": [
       {
         "id": 1,
@@ -9000,7 +9000,7 @@
   {
     "id": 385,
     "question": "Qaysi transport vositasi qoidani buzmoqda?",
-    "image_url": "public/assets/quest-image/u359uz.webp",
+    "image_url": "/public/assets/quest-image/u359uz.webp",
     "options": [
       {
         "id": 1,
@@ -9027,7 +9027,7 @@
   {
     "id": 386,
     "question": "Chorrahadan birinchi bo'lib qaysi avtomabil o'tadi:",
-    "image_url": "public/assets/quest-image/u80uz.webp",
+    "image_url": "/public/assets/quest-image/u80uz.webp",
     "options": [
       {
         "id": 1,
@@ -9054,7 +9054,7 @@
   {
     "id": 387,
     "question": "Qatnov qismining o'ng bo'lagi bo'ylab harakatlanishga qaysi transport vositasiga ruxsat etilgan?",
-    "image_url": "public/assets/quest-image/u204uz.webp",
+    "image_url": "/public/assets/quest-image/u204uz.webp",
     "options": [
       {
         "id": 1,
@@ -9103,7 +9103,7 @@
   {
     "id": 389,
     "question": "Yotiq chiziqning uzluksiz sariq chizig'i nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u193uz.webp",
+    "image_url": "/public/assets/quest-image/u193uz.webp",
     "options": [
       {
         "id": 1,
@@ -9125,7 +9125,7 @@
   {
     "id": 390,
     "question": "Qaysi belgi tartibga solinmagan piyodalar o'tish joyiga yaqinlashayotganlik haqida ogohlantiradi?",
-    "image_url": "public/assets/quest-image/u311uz.webp",
+    "image_url": "/public/assets/quest-image/u311uz.webp",
     "options": [
       {
         "id": 1,
@@ -9186,7 +9186,7 @@
   {
     "id": 393,
     "question": "Yo'nalishli bo'lmagan transport vositalari “A” xarfi bilan belgilangan o'ng bo'lakda qaysi holatlarda harakatlanishlari mumkin?",
-    "image_url": "public/assets/quest-image/u92uz.webp",
+    "image_url": "/public/assets/quest-image/u92uz.webp",
     "options": [
       {
         "id": 1,
@@ -9208,7 +9208,7 @@
   {
     "id": 394,
     "question": "Shu joyda hovliga burilishga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u276uz.webp",
+    "image_url": "/public/assets/quest-image/u276uz.webp",
     "options": [
       {
         "id": 1,
@@ -9257,7 +9257,7 @@
   {
     "id": 396,
     "question": "Chorrahadan ikkinchi bo'lib qaysi avtomabil o'tadi:",
-    "image_url": "public/assets/quest-image/u134uz.webp",
+    "image_url": "/public/assets/quest-image/u134uz.webp",
     "options": [
       {
         "id": 1,
@@ -9301,7 +9301,7 @@
   {
     "id": 398,
     "question": "Qaysi rasmdagi avtomobil haydovchisi yuk tashish qoidasini buzayapti?",
-    "image_url": "public/assets/quest-image/u314uz.webp",
+    "image_url": "/public/assets/quest-image/u314uz.webp",
     "options": [
       {
         "id": 1,
@@ -9323,7 +9323,7 @@
   {
     "id": 399,
     "question": "Bu belgi o'rnatilgan joyda tirkamali yengil avtomobilni harakatlanishga ruxsat beriladimi?",
-    "image_url": "public/assets/quest-image/u215uz.webp",
+    "image_url": "/public/assets/quest-image/u215uz.webp",
     "options": [
       {
         "id": 1,
@@ -9345,7 +9345,7 @@
   {
     "id": 400,
     "question": "To'xtashni taqiqlovchi joylarni bildiruvchi sidirg'a sariq chiziq qaerda chiziladi?",
-    "image_url": "public/assets/quest-image/u217uz.webp",
+    "image_url": "/public/assets/quest-image/u217uz.webp",
     "options": [
       {
         "id": 1,
@@ -9372,7 +9372,7 @@
   {
     "id": 401,
     "question": "Avtobus haydovchisiga yo'lovchilarni tushirish uchun to'xtashga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u306uz.webp",
+    "image_url": "/public/assets/quest-image/u306uz.webp",
     "options": [
       {
         "id": 1,
@@ -9389,7 +9389,7 @@
   {
     "id": 402,
     "question": "Ko'rsatilgan yo'l  belgilaridan qaysi  biri  ruxsat etilgan  to'la vazni 3,5 tonnadan kam  bo'lgan  yuk avtomobiliga   o'ngga  harakatlanishni buyuradi?",
-    "image_url": "public/assets/quest-image/u451uz.webp",
+    "image_url": "/public/assets/quest-image/u451uz.webp",
     "options": [
       {
         "id": 1,
@@ -9416,7 +9416,7 @@
   {
     "id": 403,
     "question": "Qaysi rasmda piyoda qoidani buzgan holda yo'lni kesib o'tyabdi?",
-    "image_url": "public/assets/quest-image/u419uz.webp",
+    "image_url": "/public/assets/quest-image/u419uz.webp",
     "options": [
       {
         "id": 1,
@@ -9514,7 +9514,7 @@
   {
     "id": 407,
     "question": "Ushbu joyda quvib o'tishga ruxsat beriladimi?",
-    "image_url": "public/assets/quest-image/u15uz.webp",
+    "image_url": "/public/assets/quest-image/u15uz.webp",
     "options": [
       {
         "id": 1,
@@ -9580,7 +9580,7 @@
   {
     "id": 410,
     "question": "Qaysi transport vositasining haydovchisi aholi punktlarida to'xtash qoidasini buzmoqda?",
-    "image_url": "public/assets/quest-image/u59uz.webp",
+    "image_url": "/public/assets/quest-image/u59uz.webp",
     "options": [
       {
         "id": 1,
@@ -9607,7 +9607,7 @@
   {
     "id": 411,
     "question": "Chorrahani oxirgi bo'lib qaysi avtomabil kesib o'tadi:",
-    "image_url": "public/assets/quest-image/u77uz.webp",
+    "image_url": "/public/assets/quest-image/u77uz.webp",
     "options": [
       {
         "id": 1,
@@ -9656,7 +9656,7 @@
   {
     "id": 413,
     "question": "Svetoforning bu ishorasida qaysi transport vositasining harakatlanishiga ruxsat etilgan?",
-    "image_url": "public/assets/quest-image/u53uz.webp",
+    "image_url": "/public/assets/quest-image/u53uz.webp",
     "options": [
       {
         "id": 1,
@@ -9678,7 +9678,7 @@
   {
     "id": 414,
     "question": "Avtomobillar chorrahani quyidagi tartibda kesib o'tadi:",
-    "image_url": "public/assets/quest-image/u446uz.webp",
+    "image_url": "/public/assets/quest-image/u446uz.webp",
     "options": [
       {
         "id": 1,
@@ -9700,7 +9700,7 @@
   {
     "id": 415,
     "question": "Qaysi yo'nalishlarda harakatlanishga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u247uz.webp",
+    "image_url": "/public/assets/quest-image/u247uz.webp",
     "options": [
       {
         "id": 1,
@@ -9759,7 +9759,7 @@
   {
     "id": 417,
     "question": "Ko'rsatilgan yo'l belgilarining  qaysi birida eng kam tezlikda harakatlanish kerak ?",
-    "image_url": "public/assets/quest-image/u292uz.webp",
+    "image_url": "/public/assets/quest-image/u292uz.webp",
     "options": [
       {
         "id": 1,
@@ -9825,7 +9825,7 @@
   {
     "id": 420,
     "question": "Ushbu yo'lda sizga yo'l belgisidan keyin qaysi bo'laklarda harakatlanishga ruxsat beriladi?",
-    "image_url": "public/assets/quest-image/u84uz.webp",
+    "image_url": "/public/assets/quest-image/u84uz.webp",
     "options": [
       {
         "id": 1,
@@ -9847,7 +9847,7 @@
   {
     "id": 421,
     "question": "Ushbu holatda qaysi transport vositasi yo'l berishi kerak?",
-    "image_url": "public/assets/quest-image/u401uz.webp",
+    "image_url": "/public/assets/quest-image/u401uz.webp",
     "options": [
       {
         "id": 1,
@@ -9886,7 +9886,7 @@
   {
     "id": 423,
     "question": "Qaysi yotik yo'l chizigi baland piyodalar o'tish joyini bildiradi?",
-    "image_url": "public/assets/quest-image/u72uz.webp",
+    "image_url": "/public/assets/quest-image/u72uz.webp",
     "options": [
       {
         "id": 1,
@@ -9930,7 +9930,7 @@
   {
     "id": 425,
     "question": "Qanday transport vositalariga ushbu belgining amal qilishi tatbiq etilmaydi?",
-    "image_url": "public/assets/quest-image/u349uz.webp",
+    "image_url": "/public/assets/quest-image/u349uz.webp",
     "options": [
       {
         "id": 1,
@@ -9962,7 +9962,7 @@
   {
     "id": 426,
     "question": "Sariq uzuq-uzuq yotiq chiziq qaysi yo'l belgisi bilan qo'llanilishi mumkin?",
-    "image_url": "public/assets/quest-image/u386uz.webp",
+    "image_url": "/public/assets/quest-image/u386uz.webp",
     "options": [
       {
         "id": 1,
@@ -9984,7 +9984,7 @@
   {
     "id": 427,
     "question": "Chorrahani uchinchi bo'lib kesib o'tadi:",
-    "image_url": "public/assets/quest-image/u393uz.webp",
+    "image_url": "/public/assets/quest-image/u393uz.webp",
     "options": [
       {
         "id": 1,
@@ -10045,7 +10045,7 @@
   {
     "id": 430,
     "question": "Bu belgi nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u251uz.webp",
+    "image_url": "/public/assets/quest-image/u251uz.webp",
     "options": [
       {
         "id": 1,
@@ -10072,7 +10072,7 @@
   {
     "id": 431,
     "question": "Ushbu belgi qaysi moddalarga kiradi?",
-    "image_url": "public/assets/quest-image/u416uz.webp",
+    "image_url": "/public/assets/quest-image/u416uz.webp",
     "options": [
       {
         "id": 1,
@@ -10121,7 +10121,7 @@
   {
     "id": 433,
     "question": "Qaysi belgi «To'siqni chapdan aylanib o'tish» deb ataladi?",
-    "image_url": "public/assets/quest-image/u95uz.webp",
+    "image_url": "/public/assets/quest-image/u95uz.webp",
     "options": [
       {
         "id": 1,
@@ -10153,7 +10153,7 @@
   {
     "id": 434,
     "question": "Qaysi avtomabillarga harakatlanishga ruxsat berilgan?",
-    "image_url": "public/assets/quest-image/u51uz.webp",
+    "image_url": "/public/assets/quest-image/u51uz.webp",
     "options": [
       {
         "id": 1,
@@ -10219,7 +10219,7 @@
   {
     "id": 437,
     "question": "Transport vositalari chorrahani quyidagi tartibda kesib o'tadi:",
-    "image_url": "public/assets/quest-image/u133uz.webp",
+    "image_url": "/public/assets/quest-image/u133uz.webp",
     "options": [
       {
         "id": 1,
@@ -10241,7 +10241,7 @@
   {
     "id": 438,
     "question": "Har bir chiziqning uzunligi ular orasidagi masofadan 3 barobar katta bo'lgan uzuq-uzuq chiziq bildiradi?",
-    "image_url": "public/assets/quest-image/u1uz.webp",
+    "image_url": "/public/assets/quest-image/u1uz.webp",
     "options": [
       {
         "id": 1,
@@ -10263,7 +10263,7 @@
   {
     "id": 439,
     "question": "Ushbu ko'rsatilgan vaziyatda sizga hovliga orqa bilan kirib qayrilib olishga ruxsat beriladimi?",
-    "image_url": "public/assets/quest-image/u433uz.webp",
+    "image_url": "/public/assets/quest-image/u433uz.webp",
     "options": [
       {
         "id": 1,
@@ -10285,7 +10285,7 @@
   {
     "id": 440,
     "question": "Qaysi belgi yo'lning kichik radiusli burilish joyiga yaqinlashayotganlik haqida ogohlantiradi?",
-    "image_url": "public/assets/quest-image/u381uz.webp",
+    "image_url": "/public/assets/quest-image/u381uz.webp",
     "options": [
       {
         "id": 1,
@@ -10317,7 +10317,7 @@
   {
     "id": 441,
     "question": "Ushbu vaziyatda kim yo'l berishi kerak?",
-    "image_url": "public/assets/quest-image/u39uz.webp",
+    "image_url": "/public/assets/quest-image/u39uz.webp",
     "options": [
       {
         "id": 1,
@@ -10334,7 +10334,7 @@
   {
     "id": 442,
     "question": "Avtomobilning taniqlik belgisi bo'lganda, yo'lning mazkur qismida qanday yuqori tezlik bilan harakatlanishiga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u270uz.webp",
+    "image_url": "/public/assets/quest-image/u270uz.webp",
     "options": [
       {
         "id": 1,
@@ -10356,7 +10356,7 @@
   {
     "id": 443,
     "question": "Mazkur yo'l belgisi nimani bildiradi?",
-    "image_url": "public/assets/quest-image/u117uz.webp",
+    "image_url": "/public/assets/quest-image/u117uz.webp",
     "options": [
       {
         "id": 1,
@@ -10373,7 +10373,7 @@
   {
     "id": 444,
     "question": "Qaysi holatda haydovchi chapga burilish haqida ogohlantirish ishorasini bermoqda?",
-    "image_url": "public/assets/quest-image/u3uz.webp",
+    "image_url": "/public/assets/quest-image/u3uz.webp",
     "options": [
       {
         "id": 1,
@@ -10444,7 +10444,7 @@
   {
     "id": 447,
     "question": "Harakatlanish qaysi yo‘nalishga ruxsat etilgan?",
-    "image_url": "public/assets/quest-image/u407uz.webp",
+    "image_url": "/public/assets/quest-image/u407uz.webp",
     "options": [
       {
         "id": 1,
@@ -10471,7 +10471,7 @@
   {
     "id": 448,
     "question": "Yengil avtomobil haydovchisi yo'l berishi kerakmi?",
-    "image_url": "public/assets/quest-image/u234uz.webp",
+    "image_url": "/public/assets/quest-image/u234uz.webp",
     "options": [
       {
         "id": 1,
@@ -10488,7 +10488,7 @@
   {
     "id": 449,
     "question": "Motosikl haydovchisi qoidani buzayaptimi?",
-    "image_url": "public/assets/quest-image/u258uz.webp",
+    "image_url": "/public/assets/quest-image/u258uz.webp",
     "options": [
       {
         "id": 1,
@@ -10527,7 +10527,7 @@
   {
     "id": 451,
     "question": "Qaysi belgi ikkinchi darajali yo'l bilan tutashuvni bildiradi?",
-    "image_url": "public/assets/quest-image/u125uz.webp",
+    "image_url": "/public/assets/quest-image/u125uz.webp",
     "options": [
       {
         "id": 1,
@@ -10559,7 +10559,7 @@
   {
     "id": 452,
     "question": "Qaysi belgi to'xtash chizig'i oldida, u bo'lmaganda, kesib o'tiladigan qatnov qismining chetida to'xtamasdan harakatlanishni taqiqlaydi?",
-    "image_url": "public/assets/quest-image/u187uz.webp",
+    "image_url": "/public/assets/quest-image/u187uz.webp",
     "options": [
       {
         "id": 1,
@@ -10591,7 +10591,7 @@
   {
     "id": 453,
     "question": "Qaysi yo'nalishlarda harakatlanishga ruxsat etilgan?",
-    "image_url": "public/assets/quest-image/u447uz.webp",
+    "image_url": "/public/assets/quest-image/u447uz.webp",
     "options": [
       {
         "id": 1,
@@ -10645,7 +10645,7 @@
   {
     "id": 455,
     "question": "Harakatlanish vaqtida velosipedchi bilan avtomobil yo‘llari kesishganda kim yo‘l berishi kerak?",
-    "image_url": "public/assets/quest-image/u443uz.webp",
+    "image_url": "/public/assets/quest-image/u443uz.webp",
     "options": [
       {
         "id": 1,
@@ -10738,7 +10738,7 @@
   {
     "id": 459,
     "question": "Ko'rsatilgan belgilardan qaysi biri texnik tavsifnomasiga yoki holatiga ko'ra tezligi soatiga 40 kilometrdan kam bo'lgan transport vositalarining harakatlanishini taqiqlaydi?",
-    "image_url": "public/assets/quest-image/u205uz.webp",
+    "image_url": "/public/assets/quest-image/u205uz.webp",
     "options": [
       {
         "id": 1,
@@ -10760,7 +10760,7 @@
   {
     "id": 460,
     "question": "Ko'k rangli yalt-yalt etuvchi mayoqchalari va maxsus tovushli ishorasi yoqilgan maxsus transport vositasi chorraxani nechanchi bulib kesib utadi?",
-    "image_url": "public/assets/quest-image/u137uz.webp",
+    "image_url": "/public/assets/quest-image/u137uz.webp",
     "options": [
       {
         "id": 1,
@@ -10836,7 +10836,7 @@
   {
     "id": 463,
     "question": "Ko'rsatilgan belgilardan qaysi biri avtomagistrallarga o'rnatiladi?",
-    "image_url": "public/assets/quest-image/u277uz.webp",
+    "image_url": "/public/assets/quest-image/u277uz.webp",
     "options": [
       {
         "id": 1,
@@ -10868,7 +10868,7 @@
   {
     "id": 464,
     "question": "Bu belgi qaysi transport vositalariga tegishli emas?",
-    "image_url": "public/assets/quest-image/u284uz.webp",
+    "image_url": "/public/assets/quest-image/u284uz.webp",
     "options": [
       {
         "id": 1,
@@ -10951,7 +10951,7 @@
   {
     "id": 468,
     "question": "Bu yo'l belgisi bilan belgilangan yo'l qismida yengil avtomobilni shatakka olishga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u449uz.webp",
+    "image_url": "/public/assets/quest-image/u449uz.webp",
     "options": [
       {
         "id": 1,
@@ -10968,7 +10968,7 @@
   {
     "id": 469,
     "question": "Bu yo'l belgisi nimadan ogohlantiradi?",
-    "image_url": "public/assets/quest-image/u105uz.webp",
+    "image_url": "/public/assets/quest-image/u105uz.webp",
     "options": [
       {
         "id": 1,
@@ -11012,7 +11012,7 @@
   {
     "id": 471,
     "question": "Chorrahani birinchi bo'lib qaysii avtomabil kesib o'tadi?",
-    "image_url": "public/assets/quest-image/u332uz.webp",
+    "image_url": "/public/assets/quest-image/u332uz.webp",
     "options": [
       {
         "id": 1,
@@ -11034,7 +11034,7 @@
   {
     "id": 472,
     "question": "Avtomobilga qaysi yo‘nalishlarda harakatlanishga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u369uz.webp",
+    "image_url": "/public/assets/quest-image/u369uz.webp",
     "options": [
       {
         "id": 1,
@@ -11122,7 +11122,7 @@
   {
     "id": 476,
     "question": "Aholi punktlaridan tashqarida qaysi belgi takrorlanadi?",
-    "image_url": "public/assets/quest-image/u90uz.webp",
+    "image_url": "/public/assets/quest-image/u90uz.webp",
     "options": [
       {
         "id": 1,
@@ -11154,7 +11154,7 @@
   {
     "id": 477,
     "question": "Ko'rsatilgan yo'l belgilaridan qaysi biri faqat yo'l qoplamasi nam bo'lganda ta'sir etadi?",
-    "image_url": "public/assets/quest-image/u181uz.webp",
+    "image_url": "/public/assets/quest-image/u181uz.webp",
     "options": [
       {
         "id": 1,
@@ -11176,7 +11176,7 @@
   {
     "id": 478,
     "question": "Quyidagi joyda to'xtashga ruxsat beriladimi?",
-    "image_url": "public/assets/quest-image/u200uz.webp",
+    "image_url": "/public/assets/quest-image/u200uz.webp",
     "options": [
       {
         "id": 1,
@@ -11198,7 +11198,7 @@
   {
     "id": 479,
     "question": "Ko'rsatigan vaziyatda qaysi bo'lakdan o'ngga burilish lozim ?",
-    "image_url": "public/assets/quest-image/u207uz.webp",
+    "image_url": "/public/assets/quest-image/u207uz.webp",
     "options": [
       {
         "id": 1,
@@ -11215,7 +11215,7 @@
   {
     "id": 480,
     "question": "Ko'rsatilgan holda yengil avtomobilga to'xtab turishga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u333uz.webp",
+    "image_url": "/public/assets/quest-image/u333uz.webp",
     "options": [
       {
         "id": 1,
@@ -11379,7 +11379,7 @@
   {
     "id": 487,
     "question": "Yo'l harakati qoidalari bo'yicha «yonlama oraliq masofa»ni ko'rsating:",
-    "image_url": "public/assets/quest-image/u379uz.webp",
+    "image_url": "/public/assets/quest-image/u379uz.webp",
     "options": [
       {
         "id": 1,
@@ -11406,7 +11406,7 @@
   {
     "id": 488,
     "question": "Qaysi belgi piyodalar o'tish joyini bildiradi?",
-    "image_url": "public/assets/quest-image/u68uz.webp",
+    "image_url": "/public/assets/quest-image/u68uz.webp",
     "options": [
       {
         "id": 1,
@@ -11428,7 +11428,7 @@
   {
     "id": 489,
     "question": "Ushbu yo'l belgisi chorahalarda o'nga burilayotgan relessiz transport vositalariga svetaforning qaysi ishorasida harakatlanishga ruxsat etiladi ?",
-    "image_url": "public/assets/quest-image/u422uz.webp",
+    "image_url": "/public/assets/quest-image/u422uz.webp",
     "options": [
       {
         "id": 1,
@@ -11455,7 +11455,7 @@
   {
     "id": 490,
     "question": "Chorrahadan ikkinchi bo'lib kim o'tadi?",
-    "image_url": "public/assets/quest-image/u385uz.webp",
+    "image_url": "/public/assets/quest-image/u385uz.webp",
     "options": [
       {
         "id": 1,
@@ -11477,7 +11477,7 @@
   {
     "id": 491,
     "question": "Yo‘naltirgichlar bilan ko‘rsatilgan qaysi yo‘nalishlarda harakat ruxsat etilgan?",
-    "image_url": "public/assets/quest-image/u344uz.webp",
+    "image_url": "/public/assets/quest-image/u344uz.webp",
     "options": [
       {
         "id": 1,
@@ -11509,7 +11509,7 @@
   {
     "id": 492,
     "question": "Ko'k avtomobilning haydovchisiga quvib o'tishga ruxsat etiladimi?",
-    "image_url": "public/assets/quest-image/u364uz.webp",
+    "image_url": "/public/assets/quest-image/u364uz.webp",
     "options": [
       {
         "id": 1,
@@ -11531,7 +11531,7 @@
   {
     "id": 493,
     "question": "Qaysi avtomobil to'xtash qoidasini buzdi?",
-    "image_url": "public/assets/quest-image/u52uz.webp",
+    "image_url": "/public/assets/quest-image/u52uz.webp",
     "options": [
       {
         "id": 1,
@@ -11553,7 +11553,7 @@
   {
     "id": 494,
     "question": "Transport vositalari chorraxani quyidagi tartibda kesib o'tadilar:",
-    "image_url": "public/assets/quest-image/u33uz.webp",
+    "image_url": "/public/assets/quest-image/u33uz.webp",
     "options": [
       {
         "id": 1,
@@ -11575,7 +11575,7 @@
   {
     "id": 495,
     "question": "Ushbu vaziyatda oxirgi bo‘lib kim o‘tadi?",
-    "image_url": "public/assets/quest-image/u278uz.webp",
+    "image_url": "/public/assets/quest-image/u278uz.webp",
     "options": [
       {
         "id": 1,
@@ -11624,7 +11624,7 @@
   {
     "id": 497,
     "question": "Qaysi yo‘l belgisi qayrilib olishga ruxsat beradi?",
-    "image_url": "public/assets/quest-image/u228uz.webp",
+    "image_url": "/public/assets/quest-image/u228uz.webp",
     "options": [
       {
         "id": 1,
@@ -11646,7 +11646,7 @@
   {
     "id": 498,
     "question": "Qaysi haydovchi burilishni to‘g‘ri bajardi?",
-    "image_url": "public/assets/quest-image/u415uz.webp",
+    "image_url": "/public/assets/quest-image/u415uz.webp",
     "options": [
       {
         "id": 1,
@@ -11695,7 +11695,7 @@
   {
     "id": 500,
     "question": "Rasmda ko'rsatilgan chorraxa- ...",
-    "image_url": "public/assets/quest-image/u86uz.webp",
+    "image_url": "/public/assets/quest-image/u86uz.webp",
     "options": [
       {
         "id": 1,
@@ -11739,7 +11739,7 @@
   {
     "id": 502,
     "question": "Qaysi rasmda haydovchi to'g'ri burilmoqda?",
-    "image_url": "public/assets/quest-image/u126uz.webp",
+    "image_url": "/public/assets/quest-image/u126uz.webp",
     "options": [
       {
         "id": 1,
@@ -11969,7 +11969,7 @@
   {
     "id": 512,
     "question": "Belgilardan qaysi biri bevosita yo'lning xavfli qismi oldiga o'rnatiladi?",
-    "image_url": "public/assets/quest-image/u378uz.webp",
+    "image_url": "/public/assets/quest-image/u378uz.webp",
     "options": [
       {
         "id": 1,
@@ -12023,7 +12023,7 @@
   {
     "id": 514,
     "question": "Ko'rsatilgan belgilardan qaysi biri ruxsat etilgan to'la vazni 3,5 tonnadan oshmaydigan yuk avtomobillariga harakatlanishga ruxsat beradi?",
-    "image_url": "public/assets/quest-image/u290uz.webp",
+    "image_url": "/public/assets/quest-image/u290uz.webp",
     "options": [
       {
         "id": 1,
@@ -12045,7 +12045,7 @@
   {
     "id": 515,
     "question": "Ushbu transport vosita qaysi toifaga kiradi?",
-    "image_url": "public/assets/quest-image/u421uz.webp",
+    "image_url": "/public/assets/quest-image/u421uz.webp",
     "options": [
       {
         "id": 1,
@@ -12072,7 +12072,7 @@
   {
     "id": 516,
     "question": "Qaysi belgida haydovchiga quvib o‘tish taqiqlangan?",
-    "image_url": "public/assets/quest-image/u61uz.webp",
+    "image_url": "/public/assets/quest-image/u61uz.webp",
     "options": [
       {
         "id": 1,
@@ -12219,7 +12219,7 @@
   {
     "id": 522,
     "question": "Svetoforning qaysi ishorasida avtomobilning haydovchisi qayrilishni tugallashi mumkin?",
-    "image_url": "public/assets/quest-image/u149uz.webp",
+    "image_url": "/public/assets/quest-image/u149uz.webp",
     "options": [
       {
         "id": 1,
@@ -12241,7 +12241,7 @@
   {
     "id": 523,
     "question": "Harakatlanish mumkin bo'lgan yo'nalish qaysi rasmda ko'rsatilgan?",
-    "image_url": "public/assets/quest-image/u352uz.webp",
+    "image_url": "/public/assets/quest-image/u352uz.webp",
     "options": [
       {
         "id": 1,
@@ -12268,7 +12268,7 @@
   {
     "id": 524,
     "question": "Qaysi yo'nalishda harakatlanish taqiqlanadi?",
-    "image_url": "public/assets/quest-image/u454uz.webp",
+    "image_url": "/public/assets/quest-image/u454uz.webp",
     "options": [
       {
         "id": 1,
@@ -12317,7 +12317,7 @@
   {
     "id": 526,
     "question": "Harakatlanish taqiqlanadi:",
-    "image_url": "public/assets/quest-image/u194uz.webp",
+    "image_url": "/public/assets/quest-image/u194uz.webp",
     "options": [
       {
         "id": 1,
@@ -12339,7 +12339,7 @@
   {
     "id": 527,
     "question": "Qaysi rasmda sariq avtomobil haydovchisi qizil avtomobilga yo‘l berishi kerak?",
-    "image_url": "public/assets/quest-image/u139uz.webp",
+    "image_url": "/public/assets/quest-image/u139uz.webp",
     "options": [
       {
         "id": 1,
@@ -12361,7 +12361,7 @@
   {
     "id": 528,
     "question": "Bunday yo'l belgisi o'rnatilgan yo'l qismlarida motosikllarga qanday yuqori tezlik bilan harakatlanishga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u131uz.webp",
+    "image_url": "/public/assets/quest-image/u131uz.webp",
     "options": [
       {
         "id": 1,
@@ -12393,7 +12393,7 @@
   {
     "id": 529,
     "question": "Qaysi rasmda ajratuvchi mintaqa bor yo'l ko'rsatilgan?",
-    "image_url": "public/assets/quest-image/u8uz.webp",
+    "image_url": "/public/assets/quest-image/u8uz.webp",
     "options": [
       {
         "id": 1,
@@ -12415,7 +12415,7 @@
   {
     "id": 530,
     "question": "Qaysi rasmda harakatlanishning to'g'ri yo'nalishi ko'rsatilgan?",
-    "image_url": "public/assets/quest-image/u464uz.webp",
+    "image_url": "/public/assets/quest-image/u464uz.webp",
     "options": [
       {
         "id": 1,
@@ -12437,7 +12437,7 @@
   {
     "id": 531,
     "question": "Chorraha oldida bu belgi o'rnatilgan bo'lsa; haydovchi qanday yo'l tutishi kerak?",
-    "image_url": "public/assets/quest-image/u115uz.webp",
+    "image_url": "/public/assets/quest-image/u115uz.webp",
     "options": [
       {
         "id": 1,
@@ -12459,7 +12459,7 @@
   {
     "id": 532,
     "question": "Qaysi avtomobil haydovchisi yo‘l berishi kerak?",
-    "image_url": "public/assets/quest-image/u123uz.webp",
+    "image_url": "/public/assets/quest-image/u123uz.webp",
     "options": [
       {
         "id": 1,
@@ -12476,7 +12476,7 @@
   {
     "id": 533,
     "question": "Bunday yo'l belgisi bilan belgilangan yo'l qismlarida ruxsat etilgan to'la vazni 3,5 t dan ortiq bo'lgan yuk avtomobillarining qanday yuqori tezlik bilan harakatlanishiga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u178uz.webp",
+    "image_url": "/public/assets/quest-image/u178uz.webp",
     "options": [
       {
         "id": 1,
@@ -12508,7 +12508,7 @@
   {
     "id": 534,
     "question": "Qaysi belgi yo'lning tor qismlarida ro'paradan kelayotgan transport vositasiga yo'l berish lozimligini bildiradi?",
-    "image_url": "public/assets/quest-image/u169uz.webp",
+    "image_url": "/public/assets/quest-image/u169uz.webp",
     "options": [
       {
         "id": 1,
@@ -12540,7 +12540,7 @@
   {
     "id": 535,
     "question": "Chap tomondagi yondosh hududdan foydalanib qayrilib olishning ko'rsatilgan qaysi usuli harakat xavfsizligini ta'minlaydi?",
-    "image_url": "public/assets/quest-image/u191uz.webp",
+    "image_url": "/public/assets/quest-image/u191uz.webp",
     "options": [
       {
         "id": 1,
@@ -12584,7 +12584,7 @@
   {
     "id": 537,
     "question": "Ushbu holatda ko'k avtomobil haydovchisi kimga yo'l berishi lozim?",
-    "image_url": "public/assets/quest-image/u155uz.webp",
+    "image_url": "/public/assets/quest-image/u155uz.webp",
     "options": [
       {
         "id": 1,
@@ -12645,7 +12645,7 @@
   {
     "id": 540,
     "question": "Qaysi belgi «Velosiped yo'lkasi bilan kesishuv»ni bildiradi?",
-    "image_url": "public/assets/quest-image/u336uz.webp",
+    "image_url": "/public/assets/quest-image/u336uz.webp",
     "options": [
       {
         "id": 1,
@@ -12704,7 +12704,7 @@
   {
     "id": 542,
     "question": "Ko'k avtomobil haydovchisi chapga burilishga kirishgandan keyin, qizil avtomobil haydovchisi o'ng tomondan quvib o'tishi mumkinmi?",
-    "image_url": "public/assets/quest-image/u132uz.webp",
+    "image_url": "/public/assets/quest-image/u132uz.webp",
     "options": [
       {
         "id": 1,
@@ -12721,7 +12721,7 @@
   {
     "id": 543,
     "question": "Quyidagi qaysi suratda haydovchi avtomobilni qoidaga xilof ravishda to'xtash joyiga qo'ygan?",
-    "image_url": "public/assets/quest-image/u291uz.webp",
+    "image_url": "/public/assets/quest-image/u291uz.webp",
     "options": [
       {
         "id": 1,
@@ -12792,7 +12792,7 @@
   {
     "id": 546,
     "question": "Qaysi belgi bilan xavfli yo'lning uzunligi ko'rsatiladi?",
-    "image_url": "public/assets/quest-image/u140uz.webp",
+    "image_url": "/public/assets/quest-image/u140uz.webp",
     "options": [
       {
         "id": 1,
@@ -12851,7 +12851,7 @@
   {
     "id": 548,
     "question": "Ko'rsatilgan yo'nalishlar bo'yicha qaysi transport vositalariga harakatlanishga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u285uz.webp",
+    "image_url": "/public/assets/quest-image/u285uz.webp",
     "options": [
       {
         "id": 1,
@@ -12873,7 +12873,7 @@
   {
     "id": 549,
     "question": "Haydovchilardan qay biri birinchi bo'lib harakatlanish uchun imtiyozga ega?",
-    "image_url": "public/assets/quest-image/u102uz.webp",
+    "image_url": "/public/assets/quest-image/u102uz.webp",
     "options": [
       {
         "id": 1,
@@ -12939,7 +12939,7 @@
   {
     "id": 552,
     "question": "Ushbu vaziyatda siz",
-    "image_url": "public/assets/quest-image/u208uz.webp",
+    "image_url": "/public/assets/quest-image/u208uz.webp",
     "options": [
       {
         "id": 1,
@@ -12956,7 +12956,7 @@
   {
     "id": 553,
     "question": "Taqiqlovchi belgi tagiga o'rnatilgan qo'shimcha axborot belgisi nima maqsadda qo'yilgan?",
-    "image_url": "public/assets/quest-image/u411uz.webp",
+    "image_url": "/public/assets/quest-image/u411uz.webp",
     "options": [
       {
         "id": 1,
@@ -12973,7 +12973,7 @@
   {
     "id": 554,
     "question": "Ushbu yo'l belgisi:",
-    "image_url": "public/assets/quest-image/u308uz.webp",
+    "image_url": "/public/assets/quest-image/u308uz.webp",
     "options": [
       {
         "id": 1,
@@ -12995,7 +12995,7 @@
   {
     "id": 555,
     "question": "Chorraxadan uchinchi bo'lib qaysi transport vositasi kesib o'tadi:",
-    "image_url": "public/assets/quest-image/u82uz.webp",
+    "image_url": "/public/assets/quest-image/u82uz.webp",
     "options": [
       {
         "id": 1,
@@ -13017,7 +13017,7 @@
   {
     "id": 556,
     "question": "Qarama-qarshi yo'nalishdagi transportlar oqimi ikkita sidirg'a chiziqlar bilan ajratilgan yo'l nechta harakatlanish tasmasiga ega?",
-    "image_url": "public/assets/quest-image/u116uz.webp",
+    "image_url": "/public/assets/quest-image/u116uz.webp",
     "options": [
       {
         "id": 1,
@@ -13044,7 +13044,7 @@
   {
     "id": 557,
     "question": "Qaysi haydovchi birinchi bo‘lib harakatni davom ettiradi?",
-    "image_url": "public/assets/quest-image/u391uz.webp",
+    "image_url": "/public/assets/quest-image/u391uz.webp",
     "options": [
       {
         "id": 1,
@@ -13061,7 +13061,7 @@
   {
     "id": 558,
     "question": "Ushbu vaziyatda qaysi transport vositasining haydovchisi yo'l berishi kerak?",
-    "image_url": "public/assets/quest-image/u201uz.webp",
+    "image_url": "/public/assets/quest-image/u201uz.webp",
     "options": [
       {
         "id": 1,
@@ -13078,7 +13078,7 @@
   {
     "id": 559,
     "question": "Ushbu belgi qanday nomlanadi?",
-    "image_url": "public/assets/quest-image/u294uz.webp",
+    "image_url": "/public/assets/quest-image/u294uz.webp",
     "options": [
       {
         "id": 1,
@@ -13127,7 +13127,7 @@
   {
     "id": 561,
     "question": "Ko'rsatilgan vaziyatda o'ngga burilar ekan haydovchi qanday yo'l tutishi kerak?",
-    "image_url": "public/assets/quest-image/u328uz.webp",
+    "image_url": "/public/assets/quest-image/u328uz.webp",
     "options": [
       {
         "id": 1,
@@ -13225,7 +13225,7 @@
   {
     "id": 565,
     "question": "Belgilarning ta'siri qaysi transport vositalariga tatbiq etiladi?",
-    "image_url": "public/assets/quest-image/u445uz.webp",
+    "image_url": "/public/assets/quest-image/u445uz.webp",
     "options": [
       {
         "id": 1,
@@ -13247,7 +13247,7 @@
   {
     "id": 566,
     "question": "Bu qo'shimcha-axborot yo'l belgisi qaysi yo'l belgisi bilan birgalikda qo'llaniladi?",
-    "image_url": "public/assets/quest-image/u346uz.webp",
+    "image_url": "/public/assets/quest-image/u346uz.webp",
     "options": [
       {
         "id": 1,
@@ -13269,7 +13269,7 @@
   {
     "id": 567,
     "question": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
-    "image_url": "public/assets/quest-image/u238uz.webp",
+    "image_url": "/public/assets/quest-image/u238uz.webp",
     "options": [
       {
         "id": 1,
@@ -13308,7 +13308,7 @@
   {
     "id": 569,
     "question": "Qaysi yo'nalishda harakatlanishga ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u197uz.webp",
+    "image_url": "/public/assets/quest-image/u197uz.webp",
     "options": [
       {
         "id": 1,
@@ -13357,7 +13357,7 @@
   {
     "id": 571,
     "question": "Qaysi  transport vositasiga harakatlanish ruxsat etiladi?",
-    "image_url": "public/assets/quest-image/u405uz.webp",
+    "image_url": "/public/assets/quest-image/u405uz.webp",
     "options": [
       {
         "id": 1,
@@ -13389,7 +13389,7 @@
   {
     "id": 572,
     "question": "Qaysi transport vositalariga to'xtab turishga ruxsat etilgan?",
-    "image_url": "public/assets/quest-image/u96uz.webp",
+    "image_url": "/public/assets/quest-image/u96uz.webp",
     "options": [
       {
         "id": 1,
@@ -13460,7 +13460,7 @@
   {
     "id": 575,
     "question": "Qaysi belgi «Avtomobillar uchun mo'ljallangan yo'l» deb nomlanadi?",
-    "image_url": "public/assets/quest-image/u167uz.webp",
+    "image_url": "/public/assets/quest-image/u167uz.webp",
     "options": [
       {
         "id": 1,
@@ -13492,7 +13492,7 @@
   {
     "id": 576,
     "question": "Ko'rsatilgan yo'l belgisi qaysi transport vositalariga harakatlanishni taqiqlaydi?",
-    "image_url": "public/assets/quest-image/u221uz.webp",
+    "image_url": "/public/assets/quest-image/u221uz.webp",
     "options": [
       {
         "id": 1,
@@ -13514,7 +13514,7 @@
   {
     "id": 577,
     "question": "Bu belgi qayerlardan oldin o'rnatildi?",
-    "image_url": "public/assets/quest-image/u410uz.webp",
+    "image_url": "/public/assets/quest-image/u410uz.webp",
     "options": [
       {
         "id": 1,
@@ -13558,7 +13558,7 @@
   {
     "id": 579,
     "question": "Qaysi qo'shimcha axborot belgilari birga qo'llanilganda belgilarning ta'sir oralig'ini ko'rsatadi?",
-    "image_url": "public/assets/quest-image/u458uz.webp",
+    "image_url": "/public/assets/quest-image/u458uz.webp",
     "options": [
       {
         "id": 1,
@@ -13612,7 +13612,7 @@
   {
     "id": 581,
     "question": "Qaysi rasmda ikkita qatnov qismiga ega bo'lgan yo'l ko'rsatilgan?",
-    "image_url": "public/assets/quest-image/u367uz.webp",
+    "image_url": "/public/assets/quest-image/u367uz.webp",
     "options": [
       {
         "id": 1,
@@ -13634,7 +13634,7 @@
   {
     "id": 582,
     "question": "Ko'rsatilgan belgilardan qaysilarining talabi bevosita o'rnatilgan joyidan kuchga kiradi?",
-    "image_url": "public/assets/quest-image/u101uz.webp",
+    "image_url": "/public/assets/quest-image/u101uz.webp",
     "options": [
       {
         "id": 1,
@@ -13656,7 +13656,7 @@
   {
     "id": 583,
     "question": "Ushbu belgi sanab o'tilgan yuk avtomobillarining qaysilariga harakatni davom ettirishni taqiqlamaydi?",
-    "image_url": "public/assets/quest-image/u110uz.webp",
+    "image_url": "/public/assets/quest-image/u110uz.webp",
     "options": [
       {
         "id": 1,
@@ -13715,7 +13715,7 @@
   {
     "id": 585,
     "question": "Qaysi yo'nalishda harakatlanish taqiqlangan?",
-    "image_url": "public/assets/quest-image/u456uz.webp",
+    "image_url": "/public/assets/quest-image/u456uz.webp",
     "options": [
       {
         "id": 1,
@@ -13769,7 +13769,7 @@
   {
     "id": 587,
     "question": "Qaysi transport vositasining haydovchisi birinchi navbatda harakatlanish huquqiga ega?",
-    "image_url": "public/assets/quest-image/u360uz.webp",
+    "image_url": "/public/assets/quest-image/u360uz.webp",
     "options": [
       {
         "id": 1,
@@ -13808,7 +13808,7 @@
   {
     "id": 589,
     "question": "Ko'rsatilgan yo'l belgilaridan  qaysilari Siz yo'lning tor qismida yo'l berishingizni  talab qiladi?",
-    "image_url": "public/assets/quest-image/u315uz.webp",
+    "image_url": "/public/assets/quest-image/u315uz.webp",
     "options": [
       {
         "id": 1,
@@ -13901,7 +13901,7 @@
   {
     "id": 593,
     "question": "Sizga ko'rsatilgan joyda  yengil avtomobilda to'xtashga  ruxsat  etiladimi?",
-    "image_url": "public/assets/quest-image/u121uz.webp",
+    "image_url": "/public/assets/quest-image/u121uz.webp",
     "options": [
       {
         "id": 1,
@@ -13950,7 +13950,7 @@
   {
     "id": 595,
     "question": "Chorrahani oxirgi bo'lib kesib o'tadi:",
-    "image_url": "public/assets/quest-image/u253uz.webp",
+    "image_url": "/public/assets/quest-image/u253uz.webp",
     "options": [
       {
         "id": 1,
@@ -14004,7 +14004,7 @@
   {
     "id": 597,
     "question": "Qizil avtomobil qaysi yo‘nalishlarda qayrilib olishga ruxsat beriladi?",
-    "image_url": "public/assets/quest-image/u206uz.webp",
+    "image_url": "/public/assets/quest-image/u206uz.webp",
     "options": [
       {
         "id": 1,
@@ -14026,7 +14026,7 @@
   {
     "id": 598,
     "question": "Tormozlanish bo'lagi bo'lgan yo'lda qaysi transport vositasi unga chiqish qoidasini buzdi?",
-    "image_url": "public/assets/quest-image/u118uz.webp",
+    "image_url": "/public/assets/quest-image/u118uz.webp",
     "options": [
       {
         "id": 1,
@@ -14048,7 +14048,7 @@
   {
     "id": 599,
     "question": "Ushbu holatda qaysi transport vositasi yo'l berishi kerak?",
-    "image_url": "public/assets/quest-image/u199uz.webp",
+    "image_url": "/public/assets/quest-image/u199uz.webp",
     "options": [
       {
         "id": 1,
@@ -14065,7 +14065,7 @@
   {
     "id": 600,
     "question": "Ushbu yo'l nechta qatnov qismiga ega?",
-    "image_url": "public/assets/quest-image/u388uz.webp",
+    "image_url": "/public/assets/quest-image/u388uz.webp",
     "options": [
       {
         "id": 1,
