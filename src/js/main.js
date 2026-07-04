@@ -16,6 +16,8 @@ import {
 const modal = document.getElementById("loginModal");
 const openBtn = document.getElementById("openModal");
 const closeBtn = document.querySelector(".close-btn");
+const mashqBtn = document.getElementById("mashqBtn"); // "Boshlash" tugmasi qo'shildi
+
 
 // --- FUNKSIYALAR ---
 
@@ -80,7 +82,8 @@ const loginWithEmail = async () => {
     const user = userCredential.user;
 
     if (user.emailVerified) {
-      window.location.href = "src/html/categories.html";
+      // Manzil to'g'rilandi: src/html olib tashlandi
+      window.location.href = "categories.html"; 
     } else {
       alert("Avval emailingizni tasdiqlang! Link yuborilgan.");
       await signOut(auth);
@@ -107,7 +110,8 @@ const loginWithGoogle = async () => {
       { merge: true },
     );
 
-    window.location.href = "src/html/categories.html";
+    // Manzil to'g'rilandi: src/html olib tashlandi
+    window.location.href = "categories.html";
   } catch (error) {
     console.error("Google xatosi:", error);
   }
@@ -135,7 +139,25 @@ window.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  // Firebase tugmalari
+  // "Boshlash" (Mashq qilish) tugmasi bosilganda tekshirish
+  mashqBtn?.addEventListener("click", (e) => {
+    e.preventDefault();
+    const user = auth.currentUser;
+
+    if (user) {
+      if (user.emailVerified) {
+        window.location.href = "categories.html";
+      } else {
+        alert("Iltimos, avval emailingizni tasdiqlang!");
+      }
+    } else {
+      // Tizimga kirmagan bo'lsa, avtomatik login oynasini ochamiz
+      alert("Mashq qilishni boshlash uchun avval tizimga kiring!");
+      modal.style.display = "block";
+    }
+  });
+
+  // Firebase tugmalari listenerlari
   document
     .getElementById("googleLoginBtn")
     ?.addEventListener("click", loginWithGoogle);
