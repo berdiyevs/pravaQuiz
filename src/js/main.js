@@ -82,8 +82,7 @@ const loginWithEmail = async () => {
     const user = userCredential.user;
 
     if (user.emailVerified) {
-      // Manzil to'g'rilandi: src/html olib tashlandi
-      window.location.href = "categories.html"; 
+      window.location.href = "src/html/categories.html"; 
     } else {
       alert("Avval emailingizni tasdiqlang! Link yuborilgan.");
       await signOut(auth);
@@ -110,8 +109,7 @@ const loginWithGoogle = async () => {
       { merge: true },
     );
 
-    // Manzil to'g'rilandi: src/html olib tashlandi
-    window.location.href = "categories.html";
+    window.location.href = "src/html/categories.html";
   } catch (error) {
     console.error("Google xatosi:", error);
   }
