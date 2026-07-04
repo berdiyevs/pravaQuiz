@@ -80,7 +80,7 @@ const loginWithEmail = async () => {
     const user = userCredential.user;
 
     if (user.emailVerified) {
-      window.location.href = "./src/html/categories.html";
+      window.location.href = "../html/categories.html";
     } else {
       alert("Avval emailingizni tasdiqlang! Link yuborilgan.");
       await signOut(auth);
@@ -107,7 +107,7 @@ const loginWithGoogle = async () => {
       { merge: true },
     );
 
-    window.location.href = "categories.html";
+    window.location.href = "../html/categories.html";
   } catch (error) {
     console.error("Google xatosi:", error);
   }
