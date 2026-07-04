@@ -80,7 +80,7 @@ const loginWithEmail = async () => {
     const user = userCredential.user;
 
     if (user.emailVerified) {
-      window.location.href = "categories.html";
+      window.location.href = "./src/html/categories.html";
     } else {
       alert("Avval emailingizni tasdiqlang! Link yuborilgan.");
       await signOut(auth);
